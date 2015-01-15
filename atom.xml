@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Erelief's Talk]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://erelief.me/"/>
+  <updated>2015-01-15T06:01:28.021Z</updated>
+  <id>http://erelief.me/</id>
+  
+  <author>
+    <name><![CDATA[Erelief]]></name>
+    
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[好的设计关乎过程，而非产品]]></title>
+    <link href="http://erelief.me/2015/01/06/good-design-is-about-process-not-product/"/>
+    <id>http://erelief.me/2015/01/06/good-design-is-about-process-not-product/</id>
+    <published>2015-01-06T06:09:30.000Z</published>
+    <updated>2015-01-11T07:03:16.000Z</updated>
+    <content type="html"><![CDATA[<p>未授权翻译，仅作学习交流之用，版权归原作者所有，转载请注明原文出处，勿做商业目的使用。</p>
+<p>感谢在翻译过程中提供帮助的朋友们！</p>
+<p>原文地址：<a href="http://blog.jaredsinclair.com/post/97655887470/good-design-is-about-process-not-product" target="_blank" rel="external">http://blog.jaredsinclair.com/post/97655887470/good-design-is-about-process-not-product</a></p>
+<a id="more"></a>
+
+<hr>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/04/aa.jpg" alt=""></p>
+<p>设计师的工作过程决定了最后产物是平庸还是卓越。天赋和训练都不能替代良好的设计习惯。好的过程可以掩盖许多天赋和技巧上的短处——反之则不然。好的过程可以帮你做出自己最好最独特的作品。坏的过程则让你疲倦，或是做出一些无聊又陈腐的东西。</p>
+<p>要形成一个健康的设计过程，最简单的方法是直接模仿你所崇拜的设计师。在这篇文章中，我会分享一些从我自己喜爱的设计师，或是一些其他领域的智者那里借来的建议。</p>
+<p>这篇文章的长度远超出了我的预期。它也许本可以被分成许多小文章，不过把这些来源五花八门的建议放在一起会更有意思。好的建议往往不期而至。</p>
+<h2 id="简单来说……">简单来说……</h2>
+<p>下面这个列表是这篇文章的简短版本。这几句话并不是拿来温暖你的鸡汤，而是泼在你脸上的冷水，勇敢面对吧！如果你能严肃对待这些问题，就能够重塑你的工作方法——不论你是单干还是团队工作。  </p>
+<ul>
+<li>关注你的<strong>过程</strong>，而不是最后的产品。</li>
+<li>把你工作中的<strong>「创意模式」</strong>和<strong>「执行模式」</strong>正式地分开。</li>
+<li><strong>延迟决策</strong>，直到不得不做出决定为止。</li>
+<li><strong>设法缩短修订版本之间的间隔</strong>，比担心不能在结点之前完成项目更加重要。</li>
+<li><strong>重新设计</strong>是设计的本质。</li>
+<li><strong>恪守</strong>自己的设计原则，但要<strong>灵活</strong>地去应用。</li>
+</ul>
+<h2 id="垃圾桶">垃圾桶</h2>
+<p>这篇文章的标题可不是《难以置信！成为一个好这设计师就这三步！》。要是做一个好设计师这么简单的话，岂不是所有人照着这张清单就能成功了吗？</p>
+<p>每当我看到能启发自己的设计时，我会尝试想象着自己在做这个设计。但是有很多次，我不得不被迫从这种空想的练习中跳出来，因为我搞不清其他设计师是怎么做好这些作品的。为此，我失去信心，就好像他们之间守着什么秘密知识一样。</p>
+<p>很久以后我才意识到自己找错了解决问题的方向。我是想从「结果」开始，逆流而上去寻找设计的源头。然而，事后诸葛亮，以这个角度来看，所有的决定都会显得理所应当。因此，那些没有体现在最后产品中的调整、转折或是困境，我便无从得知了。不过当我转换视角，去学习设计的过程以后，这些问题便都清楚了。</p>
+<p><em>如果你想学好设计，就去看看好设计师的废纸篓。</em></p>
+<p>当你开始学习另一个设计师的垃圾时，你才能解封她工作的过程。一个最后被抛弃的想法之前会有多少次迭代？在试图解决一个具体问题的过程中可能会产生多少种解决方案？ <a href="http://baike.baidu.com/link?url=-gCbY3dfYqdxM9u8xnrIBiI8BhV3JewZuquJgmuURO68shtNBwfKX56Obt9bBOyoG6yRrHt5ZFECl2ypoYB5NK" target="_blank" rel="external">莱昂纳德·科恩</a>曾<a href="http://www.goodreads.com/quotes/21897-poetry-is-just-the-evidence-of-life-if-your-life" target="_blank" rel="external">写过</a>：「诗是生活的证据。如果你活得如火如荼，诗就烧成灰了。」任何创意活动中，最后成型的「结果」，只不过是一路工作所「烧」出来的灰尘，所堆积出来的东西罢了。</p>
+<h2 id="健康的设计过程">健康的设计过程</h2>
+<p>什么才能让设计过程健康起来？对这个问题我有一些实用的回答。这些回答的来源各种各样。顺序不分前后：</p>
+<ol>
+<li><strong>关注过程，而非产品。</strong>关注你工作的质量，而非花在上面的时间。如果这么做，你会发现，你会比你想象得还要快得做出自己最好的作品。</li>
+<li><strong>开放 vs. 封闭。</strong>开放（创意模式）和封闭（执行模式）应当被清楚、正式地分开。要练习能在两个模式之间自由切换。</li>
+<li><strong>「犹豫不决」。</strong>不到最后期限，不要作出决定。「决定」本身并没有价值。</li>
+<li><strong>设法缩短间隔，不要盯着结点。</strong>设法缩短修订版本之间的间隙，这样做比起担忧是否能在结点前完成项目，对你的生产力更有好处。</li>
+<li><strong>重新设计才是设计的本质。</strong>深呼吸，伸展你的四肢，然后准备一遍遍地重复同样的工作。不要把第一版——甚至是第二版——当做最后的版本。</li>
+<li><strong>恪守原则，灵活应用。</strong> 有主张的设计只有在规范的框架下才有用，而且还需要去灵活的应用这些准则。</li>
+</ol>
+<p>让我们来详细讨论每一条。</p>
+<h2 id="1-_过程，而非产品">1. 过程，而非产品</h2>
+<p>我一直持续不断的从乔·海姆斯的 <a href="http://www.amazon.cn/Zen-in-the-Martial-Arts-Hyams-Joe/dp/B003IS764O/ref=sr_1_1?ie=UTF8&amp;qid=1419952112&amp;sr=8-1&amp;keywords=Zen+in+the+Martial+Arts" target="_blank" rel="external"><em>Zen in the Martial Arts</em></a>（《武术中的禅》）这本小书获得灵感和启发。海姆斯是一个旅行家，后来对武术绽放出无比的热情。不过，他的这本书书除了偶尔提个一两句以外，和禅与武术都没什么关系。这本书真正的乐趣所在在于其所提供的大量实用的智慧。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/04/zen-book.jpg" alt=""></p>
+<p>下面这段话是我最喜欢的片段之一的完整摘录（需要强调的地方加粗了），这段文章阐述了为什么关注过程，而非最后的产品，却反而能够在让你在两方面都成功的原因：</p>
+<blockquote>
+<p><a href="http://en.wikipedia.org/wiki/Han_Bong-soo" target="_blank" rel="external">韩奉修</a>（한봉수）师傅是一个中等身高，留着一头铁灰色头发的韩国人。他的一言一行都相当有威严。作为一个传统的材料大师， 他在韩国从他的师傅那里学来<a href="http://baike.baidu.com/link?url=4gVGbD9aiURLbzJ-rDCeR-HoARMGvRe5hLyJLkD-rPWK7P07pDuuCMTS7OrzLGl8aQpyvccHXWkQ-h7ZT3i-7p-vsA6cz6yzznb6T0bqyzm" target="_blank" rel="external">合气道</a>（hapkido），而他的师傅又被一长串其他师傅教导过。韩师傅的讲习会不仅是一次训练，也是人生中的一课。每次离开他的道场时，我总觉得自己变得更充实了些。</p>
+<p>当我和韩师傅学习合气道时，我已经 50 多岁了。刚开始学习的时候，因为合气道对身体柔韧性的有很高的要求，所以我的进度很慢，也时常觉得很困难。由于年纪导致我的身体僵硬，而且因为我的背部有问题让我难以保持平衡，同时，高于胯部的踢击动作会让我疼痛不已。那些年轻人能轻松做到的动作，我则要花数倍的努力和坚强的意志力才能完成，这使得我的学习过程变得异常复杂。我曾多次想放弃，韩师傅注意到了这点。</p>
+<p>在一次训练过后的下午，韩师傅邀请我和他一起喝茶。等他准备好茶后，他开始说：「除非你愿意给自己时间，不然你永远不会试着去努力。我想你已经习惯于唾手可得的东西，不过生活和材料艺术都不是这样的。」</p>
+<p>「我并不是没有耐心。」我说。</p>
+<p>「我们现在讨论的不是耐心，」他回答道，「做一个有耐心的人意味着能忍受平静。<strong>意味着能给自己时间，充满活力地朝向一个不设期限的目标。</strong>」</p>
+<p>他触及到了我问题的核心。我给自己设定了一个时间期限去效仿韩师傅，而且我因没有尽快实现目标而受挫。当我把最后期限抛之脑后的同时，身体也如释重负。几个月内我就完成了剩余的课程。</p>
+<p>同样重要的是：通过韩师傅的建议我解决了另一个棘手的问题。当时我正在写一本书，而且越写越慢。这使我感到失落，因为当时我已经承诺要在短期内另起一个新的项目，这件事让我心神不宁。如今我意识到我关注错了地方。我犯了和在合气道上同样错误。我应该关注写作本身而非完成这本书。一旦我解开了脑中的枷锁并不设期限地去完成那本书时，我得以让自己戒除焦虑，专心于写作。</p>
+</blockquote>
+<p>海姆斯是一个作家，而非设计师，不过我相信他的建议对任何创意工作都可以应用。</p>
+<h2 id="2-_开放_vs-_封闭">2. 开放 vs. 封闭</h2>
+<p>1991年，<a href="http://www.thejohncleese.com/" target="_blank" rel="external">约翰·克里斯</a>给一群挪威人开了一个<a href="http://v.qq.com/page/l/l/g/l0144kuejlg.html" target="_blank" rel="external">关于创意的讲座</a>。这个晦涩的讲座改变了我的一生。这是一个值得反复观看的讲座，并且只会占用你短短的36分钟。简短起见，我来尝概括一下讲座的思想。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/04/cleese.jpg" alt=""></p>
+<p>创造力是一种操作方式、一种思维习惯——而不是天赋。一旦你抓住了这个事实，就会痛悟：我们安排自己时间的方式，以及与同事之间互动的方式，或许经常在破坏我们孜孜以求的创造力。</p>
+<p>应当正式地把创意环节，从我们对「把事做完」的饥渴之中剥离出来。当我们需要解决一个对创造力有需求的问题时，应当有意识地排除一切噪音和压力。克里斯建议留出一个半小时的空闲时间，以一个轻松自得的状态进入一个开放式的活动。在这个活动中，需要强迫自己，以尽可能多的方式来看待问题。</p>
+<p>其重点在于不去解决问题（尽管最终会解决的），而仅仅是探索它。急不可耐的「确定」或「通过」，都会摧毁本来就脆弱不堪的创意过程。相反，应该等到用完这段「创意时间」以后，再做判断。到那时候，你再回到「封闭」的状态，并在此期间，根据创意活动给你的启发做出实践验证。然后，规律地重复这个循环的模式。</p>
+<p>我对克里斯演讲的总结还远远不够。正在读这篇文章的你真的应该去看看<a href="http://v.qq.com/page/l/l/g/l0144kuejlg.html" target="_blank" rel="external">整个视频</a>。这段视频里充满着他独一无二的智慧与幽默。准备好捧腹大笑并为他鼓掌吧！</p>
+<h2 id="3-_「犹豫不决」">3. 「犹豫不决」</h2>
+<p><a href="https://dribbble.com/bjango" target="_blank" rel="external">马克·埃德沃兹</a>，一个知识渊博的设计师，同时也是 <a href="http://bjango.com/" target="_blank" rel="external">Bjango</a> 的创始人。最近贴了一篇关于他对前老板（一个设计公司的创意总监）回忆的<a href="http://bjango.com/articles/exploration/" target="_blank" rel="external">感人文章</a>。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/04/bjango.jpg" alt=""></p>
+<p>马克刚开始误认为他老板是个古怪且优柔寡断的人。后来才领悟到，隐藏在它老板疯狂的表象之下的，是足以颠覆他职业生涯的一课：</p>
+<blockquote>
+<p>对我来说，他好像不知道自己在做什么。他一直到处摸索，最后才在停在某些不置可否的事物上。这些东西并不是不可以，但是不够好。然后他就要求更多的更改，包括某些明摆着就很糟糕的更改。</p>
+<p>……</p>
+<p>后来我才领悟了。</p>
+<p>他故意尝试各种各样疯狂的东西，甚至知道那些中的绝大多数没有用。但他根本不在乎，他不在乎也觉得这样没关系——我们最后成果所能达到的，是我们事先的规划所估计不到的。问题并不是「最佳的方法是什么？」而是「有多少种可能的方法？」，直到最后时刻来临之际再做出判断。判断的感觉也许不错，不过这并没有价值。结果才有价值。</p>
+<p>然而（总监的）成果往往是扎实、却又与众不同的惊人设计。他从不会用稀松平常的方式来处理。从作品的外表，或别的艺术总监的眼中来看，它非常神奇。不过，从过程的角度来看，并非是因纠结细枝末节而产生这样的结果。</p>
+</blockquote>
+<p>我特别喜爱马克最后对于他老板是如何避免设计师瓶颈的观察。回顾自身，才发现我自己因为总是草率地追求「确定」，而且迫不及待地想从「还没确定」的不适感中解脱出来，从而经验性地陷入瓶颈问题。</p>
+<h2 id="4-_设法缩短间隔，不要盯着结点">4. 设法缩短间隔，不要盯着结点</h2>
+<p><a href="http://baike.baidu.com/link?url=PubqzQJzM7WdIPTLcMbbttR4ww2yEy74jk6HhemY8mQGRZ5GqTugk_v2FmnIHPzfRBWKSVLfb6r6gzGimNJgba" target="_blank" rel="external">阿萨·拉斯金</a>，一个多才多艺的设计师，现在是 Jawbone 的副总裁，写过<a href="http://www.azarask.in/blog/post/the-wrong-problem/" target="_blank" rel="external">一篇博客</a>，在文章中叙述了<a href="http://en.m.wikipedia.org/wiki/Paul_MacCready" target="_blank" rel="external">保罗·麦克格雷迪</a>在制造首个穿越英吉利海峡人力驱动载具时，所体现出的独特洞察力。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/04/condor.jpg" alt=""></p>
+<p>1959 年，一位名叫亨利·克里默的英国大亨，为首支能「只使用人力驱动的设备飞过英吉利海峡」的团队，提供了一份可观的现金奖励（相当于今天的 250 万美元）。在麦克获奖之前，整整18年都没有人挑战成功。</p>
+<p>麦克格雷迪敏锐的观察力使得他得以发现，他的前辈们都把问题的本质给搞错了。这些团队花了好几个月设计和制造飞行器，但大部分刚飞几分钟甚至几秒钟就撞毁了，这就意味着他们要花费很长时间重新计算和制造飞行器。麦克格雷迪对此提出了异议：</p>
+<blockquote>
+<p>问题并没有得到解决。保罗意识到需要解决的，事实上，并不是人力飞行器的问题。在这个比赛中，飞行器本身是一颗「烟雾弹」。真正的问题是过程本身，以及没有深思熟虑就进行的莽撞行为。保罗找到了真正需要解决的问题：怎样造一个能在数小时内修好，而不是花上几个月才能修好的飞行器。然后，他做到了。他造了一个用聚酯薄膜和铝管，并用线材组捆绑而成的飞机。</p>
+<p>第一架飞机并没有成功。它实在太脆弱了。不过，由于他的问题是“如何造一架能在数小时内修好的飞行器”，所以他能够快速重建。有时他甚至能在一天之内飞3到4架。因此，重复制造，重复测试，重复演技的循环从「长年累月」被压缩到了「积时累日」。</p>
+</blockquote>
+<p>麦克格雷迪的见解在软件设计上尤其合适。如果你的团队里有多个设计师和开发者，你大概对团队最后总是在新旧内核版本之间、设计反馈之间、或是在这个反馈和返修之间，那些长达数日或者数周的拖延非常熟悉。这种延期是非常严重的问题。这会让工程师和设计师忘脑袋里那些得不到及时应用的细节。</p>
+<p>所有在速度的上的改进都有好处。像 Flipboard 和 Facebook 这类公司使用<a href="http://v.qq.com/page/p/l/0/p0144eewhl0.html" target="_blank" rel="external">自动部署测试版本</a>和<a href="https://github.com/facebook/Tweaks" target="_blank" rel="external">应用内设计调整</a>来消除一些类似手动配置和升级核心用户界面的常规任务。<a href="http://bjango.com/mac/skala/" target="_blank" rel="external">Skala</a> 或者 <a href="https://www.flinto.com/" target="_blank" rel="external">Flinto</a> 这类预览工具可以尽可能地直接在终端上预览你的设计。当你关注于缩短设计每个迭代版本之间的调整时间时，就等同于让你的团队获取更多的效率，因能展现出他们最好的作品。</p>
+<h2 id="5-_重新设计才是设计的本质">5. 重新设计才是设计的本质</h2>
+<p>在 <a href="http://www.amazon.cn/On-Writing-Well-30th-Anniversary-Edition-The-Classic-Guide-to-Writing-Nonfiction-William-Zinsser/dp/0060891548/ref=sr_1_1?ie=UTF8&amp;qid=1419957195&amp;sr=8-1&amp;keywords=On+Writing+Well" target="_blank" rel="external"><em>On Writing Well</em></a>（《怎样写好》）这本书中，<a href="http://www.williamzinsserwriter.com/" target="_blank" rel="external">威廉姆·辛赛</a>对「重新写作」有非常精彩的论述：</p>
+<blockquote>
+<p>重写是写好的本质：这能决定你的成败，然而这个想法又很难被接受。我们对自己的第一稿总是很有感情；我们不愿相信它并非生来完美。不过奇怪的是，它不完美的概率几近于100%。绝大部分的写作者并非在一开始就能表达得出他们想表达的，或者，表达得不如他们最高水平所能做到的那样。刚孵化出的句子总是哪儿不对劲：不清晰、没有逻辑、冗长、自命不凡、无聊、杂乱不堪……所以关键在于，明晰的写作是沉思熟虑的结果。</p>
+</blockquote>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/04/zinsser.jpg" alt=""></p>
+<p>我把它延伸为重新设计才是设计的本质。无论一个人多有才能，都不可能在 TA 的第一版做到 TA 所能做到的最好设计。除非是你太懒，不然直接交出第一或是第二版通常只是一厢情愿的想法。你的作品永远都会有改进的空间：有些新东西可以加，过量的东西可以剔除，已有东西可以重新整合。好的想法总在不经意间蹦出。如果你一直处在备战的状态的话，那你就可以摆脱习惯性地妥协接受平庸作品的思维定势，从而对新的想法做出反应了。</p>
+<h2 id="6-_恪守原则，灵活应用">6. 恪守原则，灵活应用</h2>
+<p>在软件设计圈内有个说法：</p>
+<blockquote>
+<p>做有主张的软件。</p>
+</blockquote>
+<p>37 singals 在<a href="http://cnborn.net/docs/getting_real/index.html" target="_blank" rel="external">他们的书中</a>[1]对这条是这么描述的：</p>
+<blockquote>
+<p>伟大的软件必须要有自己的理想。伟大的软件必定是有倾向的。当人们使用软件的时候他们不只是在看功能，同时也在寻找一个解决方案，一种理想。决定你的理想而后追求不懈。</p>
+</blockquote>
+<p>我觉得这是一条很有价值的建议，不过要以合适的方法来理解它。我曾看到一些狂妄自大的设计师拿这个建议作为拒绝向一些枝节问题妥协的借口。有主张的设计无关乎个人品味。它的意思是在数条原则的指导下，给你的项目打下坚实的基础。</p>
+<p>好的设计主张自己的原则，而且自由地去应用。最好的例子就是 <a href="http://baike.baidu.com/link?url=prdX0_OXRhqyaGtJykJxhwc9AGGepEln0j5jXRS-ZwUIyslW4znDGW4Z_IYN3oqi9FktRTThanGi91tnpttKAK" target="_blank" rel="external">iMac</a>。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/04/imac.jpg" alt=""></p>
+<p>在过去的 15 年中已经有了好几代 iMac，每一代都和前一代不同——有时候是戏剧性得不同。同时，他们之中的任何一款都是真正的 iMac。因为每一个版本都诠释了 iMac 一些从未改变的原则：</p>
+<ul>
+<li>一体机；</li>
+<li>外观友好，让人想亲近触摸；</li>
+<li>凸显主体，最小化干扰项的体积；</li>
+<li>隐藏很少使用的功能；</li>
+<li>看上去就仅仅是屏幕。</li>
+</ul>
+<p>苹果的硬件设计师允许自己，以想像得到的尽可能多的方式，自由地表达这些原则，与此同时也并不质疑这些原则。这才是有主张的设计的本质。</p>
+<p>当你在从事一个新项目、或者在重改一个现有的项目时。在你开始做别的事情之前，先要找到你的原则。直到你能充分研究这些需要解决的问题并能描述解决方案之前，不要急着打开 Photoshop 或者 Xcode。把这些想法萃取成几条原则。写下它们。记住他们。把他们贴在墙上。</p>
+<p>在解决难题时，你的原则会给你准确性和客观性。如果没有的话，客观性则只能由房间里喉咙最响的人来提供了。你的每一个决定都要通过你的指导原则来掂掂分量。这才是好想法总能致胜的原因。</p>
+<hr>
+<h2 id="译注">译注</h2>
+<p>[1] 下文引用的内容也出自该连接内的译文。翻译修订： CNBorn。</p>
+<p>转载地址：  </p>
+<ul>
+<li>优设网：<a href="http://www.uisdc.com/good-design-is-about-process" target="_blank" rel="external">http://www.uisdc.com/good-design-is-about-process</a></li>
+<li>站酷：<a href="http://www.zcool.com.cn/article/ZMTQxODE2.html" target="_blank" rel="external">http://www.zcool.com.cn/article/ZMTQxODE2.html</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>未授权翻译，仅作学习交流之用，版权归原作者所有，转载请注明原文出处，勿做商业目的使用。</p>
+<p>感谢在翻译过程中提供帮助的朋友们！</p>
+<p>原文地址：<a href="http://blog.jaredsinclair.com/post/97655887470/good-design-is-about-process-not-product" target="_blank" rel="external">http://blog.jaredsinclair.com/post/97655887470/good-design-is-about-process-not-product</a></p>
+]]>
+    
+    </summary>
+    
+      <category term="翻译" scheme="http://erelief.me/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="设计" scheme="http://erelief.me/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="Design" scheme="http://erelief.me/categories/Design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[为什么你应该陪着你的孩子看动画？]]></title>
+    <link href="http://erelief.me/2014/09/13/whatching-cartoons-with-your-children/"/>
+    <id>http://erelief.me/2014/09/13/whatching-cartoons-with-your-children/</id>
+    <published>2014-09-13T12:27:34.000Z</published>
+    <updated>2015-01-14T16:11:38.000Z</updated>
+    <content type="html"><![CDATA[<p>对于任何动画，如果看，请陪着孩子看[1]。</p>
+<a id="more"></a>
+
+<p>无论是为人父母还是其他年龄的观众，对现在电视上的国产动画有诸多不满。其原因有很多，这儿就不扯皮了。问题是已然存在的，但再怎么骂，或者说举报了再多动画，以现在有的诸多限制来看，新补进来的动画不会比他们更好的哪儿去。而且总的来说，现在能过审的动画，其不太好的原因则大多数只是因为各种层面上的制作水品不够显得娱乐性不足而已，并非严重到有毒有害。</p>
+<p>当然，我不是说那些低龄动画的教育性也真的完美适配孩子。国内由于多方面原因，对于这类观众群的电视作品，剧本和表演可能会缺少儿童教育方面的专家指导意见，而带有未经这方面训练的成年人经验的、朴素的教育理念，难免受个人影响而缺少普适的效应或更科学的选择（跑题一句，这其实是我们国内原创儿童动画中亟需改进的一个地方，但我悲观的认为条件尚不具备）。但，我们的前辈不仅没有比我们做的更好，很大程度上做的更不合适（比如《黑猫警长》中的<a href="http://www.zhihu.com/question/23796811" target="_blank" rel="external">暴力情节</a>）。连各位所谓国外经典动画，也会存在这方面的不足，一方面因为儿童方面的心理学对电视内容的指导教育在美国出现也是差不多 70、80 年代的事（你们可以看看这篇文章后半部分应用的研究都是什么时候的事了），而这时候的美国动画已经有5、60 年的历史了；另一方面也是因为这些动画的目标观众可能本来就不是儿童。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/09/13/blackcat.jpg" alt=""></p>
+<p>问题的症结之一在于，儿童到底是怎么接受电视中所传达的信息的？</p>
+<p>电视可能会在暴力、社会刻板印象、健康等诸多方面对儿童造成不好的影响[2]。其中大家最关注的暴力问题也是在心理学范畴研究的重要课题之一。 比如，美国人看过我们小时候也看过的《恐龙战队》（Power Rangers，为美国引进日本战队系列翻拍的特摄作品，中国引进的是美版）中，男孩的攻击行为数量是没看过的 7 倍（Chris Boyatzis, 1995）。而 8 岁或 9 岁以下的儿童，根本记不住《恐龙战队》里队员们去战斗的积极意义和目的是什么，而只记住了「战斗」（McKenna &amp; Ossoff, 1998）。而之所以选择《恐》是因为它是当时美国电视上最暴力的儿童节目，而我国 90 年代引进的的诸多动画可以分分钟教育老外什么才叫暴力。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/09/13/powerrangers.jpg" alt=""></p>
+<p>儿童的电视素养（television literacy）很低。2 岁的儿童在电视上学不到什么（Andreson &amp; Pempek, 2005; Troseth, Saylor &amp; Archer, 2006）；6 岁的儿童很难回忆连续的故事。儿童只能记住动作而不知道原因和目的，也不会记得为达成目标所发生的事件（McKenna &amp; Ossoff, 1988; van den Broek, Lorch &amp; Thurlow, 1996）；7 岁以下的儿童不能充分理解电视中故事的虚构性（Wright 等, 1994）；8 岁儿童知道其虚构，也可能会认为是真实生活的再现（Wright 等, 1995）[3]。</p>
+<p>所以，成年人能理解的东西、或是理所应当的内在联系，对过于小的孩子来说都不是那么「理所应当」。因此即便某一集的故事在整体上积极向上，其中不合适的片段也有可能成为孩子对现实世界的认知来源。</p>
+<p>回过来说，一方面你可以选择让孩子远离电视主动挑选动画，另一方面你也可以选择应该积极引导孩子去甄别动画中的「好」与「坏」。</p>
+<p>由于成年人对儿童类动画关注极低，我暂且粗暴地认为大多数父母即没时间，更没能力选择现在新的动画给孩子看，只能从自己的认知里抽取那些经过记忆美化加工了的「我小时候看的那些更好的动画片」给孩子。而正如前面所言，这些并不那么靠谱。但这也无可厚非，除非从业者，成年人哪有这么多时间看自己不感兴趣的儿童动画。</p>
+<p>况且，即使你能选择正确，撒手不管让孩子看就好了么？即使健康如《芝麻街》，「这些节目的持续效应并不是很显著，除非成年人监控节目播放，并鼓励孩子模仿他所学习到的亲社会行为（Friedrich &amp; Stein, 1975; Friedrich-Cofer 等, 1979）」[4]。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/09/13/sesamestreet.jpg" alt=""></p>
+<p>另外一点，则是我自己主观的观察了。粗暴断绝孩子自己想看的动画，可能也会给孩子在学校社交中产生困扰（没有话题），男生可能会更明显一些。</p>
+<p>举报固然是解决极端劣质节目（如果存在的话）的手法之一，但过度的话，这也有把教育的责任丢给社会和媒体的潜台词。</p>
+<p>儿童动画理应成为的是父母和孩子沟通的桥梁，而不是允许父母缺失的避难所。</p>
+<p>最后附表一张，看看作为一个家长除了举报以外，还能怎样处理问题吧：</p>
+<blockquote>
+<p>控制电视对儿童发展影响的策略[5]<br><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/09/13/5.png" alt=""></p>
+</blockquote>
+<hr>
+<p>[1]：为了行文方便：这里的动画包含了其他电视剧、网络剧、iPad 游戏等，并不是非看动画不可；「儿童」或者「孩子」指的都是学龄前儿童或小学低年级（低于 9 岁）。<br>[2]：《<a href="http://book.douban.com/subject/3755086/" target="_blank" rel="external">发展心理学－儿童与青少年</a>》P558~P561。后文的结论和引用也都来自这本书。<br>[3]：P558。<br>[4]：P563。<br>[5]：P562。   </p>
+<p>知乎中的讨论：<a href="http://www.zhihu.com/question/21459743/answer/18311055" target="_blank" rel="external">http://www.zhihu.com/question/21459743/answer/18311055</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>对于任何动画，如果看，请陪着孩子看[1]。</p>
+]]>
+    
+    </summary>
+    
+      <category term="儿童教育" scheme="http://erelief.me/tags/%E5%84%BF%E7%AB%A5%E6%95%99%E8%82%B2/"/>
+    
+      <category term="Science" scheme="http://erelief.me/categories/Science/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[艺术家的一生]]></title>
+    <link href="http://erelief.me/2014/08/08/chart-of-artistic-achievement/"/>
+    <id>http://erelief.me/2014/08/08/chart-of-artistic-achievement/</id>
+    <published>2014-08-08T15:59:54.000Z</published>
+    <updated>2015-01-11T07:01:02.000Z</updated>
+    <content type="html"><![CDATA[<p>翻译的一张小图：<br><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/08/08/40bcd265gw1ej50jj0opkj20p00hx40s.jpg" alt="img"></p>
+<p>原图地址：<a href="http://3.bp.blogspot.com/-dR6ayPut2Wk/UJaEVWkpYJI/AAAAAAAAAwY/suXU1kzTh38/s1600/artistic+achievement_lores.jpg" target="_blank" rel="external">artistic+achievement_lores</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>翻译的一张小图：<br><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/08/08/40bcd265gw1ej50jj0opkj20p00hx40s.jpg" alt="img"></p>
+<p>原图地址：<a hr]]>
+    </summary>
+    
+      <category term="翻译" scheme="http://erelief.me/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="绘画" scheme="http://erelief.me/tags/%E7%BB%98%E7%94%BB/"/>
+    
+      <category term="Others" scheme="http://erelief.me/categories/Others/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[荐书：中国动画人的「致青春」]]></title>
+    <link href="http://erelief.me/2014/07/17/The-Stories-of-Chinese-Animators/"/>
+    <id>http://erelief.me/2014/07/17/The-Stories-of-Chinese-Animators/</id>
+    <published>2014-07-17T03:06:26.000Z</published>
+    <updated>2015-01-11T07:04:54.000Z</updated>
+    <content type="html"><![CDATA[<p>不知道如果提起「动画加工」，各位会想起什么？</p>
+<p>即便不是这一行的人，如果对动画稍有了解，也应该对这产业中的一环有所耳闻。且不说现在人谈起这件事，大多带着诋毁的口气。还因拜国内各种媒体所赐，诸如「中国动画长期承接日美动画加工，所以在动画制作能力上完全不输国际水准」之类的论调也一直可以看得到。总之谈起这件事，大家现在都要皱眉。</p>
+<p>如果你到现在还这么想，那么请务必读读这本妙趣横生的书。</p>
+<a id="more"></a>
+
+<p><img src="http://img14.360buyimg.com/n12/g15/M04/1B/1D/rBEhWFKpD_4IAAAAAAMN8RApU3MAAGqdQOZS1gAAw4J999.jpg%21q70.jpg" alt="img"></p>
+<p>正如总编薛燕平老师<a href="http://blog.sina.com.cn/s/blog_4960eae10102e6jy.html" target="_blank" rel="external">所言</a>，「中国动画加工史」并不是一本清楚的明账，如果没有那个时期的人跟你说过，即便是学动画的估摸也就知道有过这么一段日子。而这本书，应该是第一本描述当时情况的成本著作了。</p>
+<p>此书应该可以称作是一本「历史书」。知道为什么放着原创动画不做，大家全都去做加工动画，搞得整个 95 后的童年好像就没国产动画看了一样？不好意思，当时其他地方的普通职工还在拿着几百块工资的时候，新人动画师就能月入过千，90 年代最疯狂的时候，月入过万不是梦。中国有近 10 年的原创动画空窗期由此可见一斑。</p>
+<p>不仅如此，你也能知道传统动画制作的成本为什么如此之高；为什么 90 年代以后上海美术电影厂的作品质量直线下滑；为什么如火如荼的动画加工到今天变成了就业红牌；这些老前辈今天还在哪儿；为什么「不输国际水准」的中国动画制作技术即使在全盛时期，却始终没有交出太让人满意的答卷；中国动画动画的明天在哪里？——当然，最后这个问题可能还是太大了，这本书告诉不了你，但想必读过之后会少一些拍拍脑袋就乱写的奇思妙想吧。即便对于现在的动画人来说也是，也可以以史为鉴。书中的那些不成功的尝试，现在还有人毫无改进的同样做着。</p>
+<p>同时，这本书也截取了当时一些其他人对这些事的侧写，也条例清晰的理顺了当时中国动画加工的发展，并非简简单单一家之言，这点也难能可贵。</p>
+<p>这本书也不是一本「历史书」，作者只是回忆了当时的种种，每篇文章都会专注一件事或一个人，而且大多也仅仅是发生在深圳翡翠动画公司的事情。但却因为这样，这本书就像行业里的老前辈，酒饱饭足以后跟你回忆他的青春岁月那般温暖，字里行间既有豪迈，也有沧桑。书里的浮生百态，各种各样的动画、背景师：为求爱跳楼自杀、几个月不洗衣服、争先恐后的买股票认购证、倒卖通行证赚外快……这些故事不仅是年轻人的故事，也是改革开放时期深圳发展的芸芸众生像。同时最重要的也是告诉读者，画纸的背后亦是活人，加完中间画后也有百态人生，陪伴我们童年的欢笑，是他们喜怒哀乐书写而成的。</p>
+<p>他们有那一代动画人特有的低调，并不是人人都愿意站出来发声。但是有些事不提，误解总是更深，或者被人忘记。与其等后人来总结，还不如听听曾经一线人们的声音。如果正儿八经的写历史辜负了那段时光，这样写作的方式恐怕是对青春最好的纪念了吧。</p>
+<p>向那个时代的人们致敬。</p>
+<p>PS：本书末尾对主要的动画加工公司的谱系有很完整的整理，如果是在国内接受的动画教育，差不多可以靠着那张表认祖归宗咧！</p>
+<hr>
+<p>附录：</p>
+<ul>
+<li>书籍信息：《如烟往事：中国动画加工（1989-2009）》 何兵 / 何伟 著 中国传媒大学出版社。  </li>
+<li>何老师最初的原稿《一个动画人 17 年的记忆》：<a href="http://www.chinavid.com/interview/2008-4-23/17_0.htm" target="_blank" rel="external">http://www.chinavid.com/interview/2008-4-23/17_0.htm</a>  </li>
+<li>主编薛燕平老师的介绍（既本书的序）：<a href="http://blog.sina.com.cn/s/blog_4960eae10102e6jy.html" target="_blank" rel="external">http://blog.sina.com.cn/s/blog_4960eae10102e6jy.html</a>  </li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>不知道如果提起「动画加工」，各位会想起什么？</p>
+<p>即便不是这一行的人，如果对动画稍有了解，也应该对这产业中的一环有所耳闻。且不说现在人谈起这件事，大多带着诋毁的口气。还因拜国内各种媒体所赐，诸如「中国动画长期承接日美动画加工，所以在动画制作能力上完全不输国际水准」之类的论调也一直可以看得到。总之谈起这件事，大家现在都要皱眉。</p>
+<p>如果你到现在还这么想，那么请务必读读这本妙趣横生的书。</p>
+]]>
+    
+    </summary>
+    
+      <category term="书" scheme="http://erelief.me/tags/%E4%B9%A6/"/>
+    
+      <category term="中国动画" scheme="http://erelief.me/tags/%E4%B8%AD%E5%9B%BD%E5%8A%A8%E7%94%BB/"/>
+    
+      <category term="Animation" scheme="http://erelief.me/categories/Animation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[《冰雪奇缘》之服装设计]]></title>
+    <link href="http://erelief.me/2014/03/20/forzen-costume-design/"/>
+    <id>http://erelief.me/2014/03/20/forzen-costume-design/</id>
+    <published>2014-03-20T11:07:35.000Z</published>
+    <updated>2015-01-14T17:46:24.000Z</updated>
+    <content type="html"><![CDATA[<p>本文翻译自迪士尼女艺术家 Brittney Lee 的 <a href="http://britsketch.blogspot.jp/2014/02/frozen-costume-design.html" target="_blank" rel="external">Frozen - Costume Design</a> 一文。</p>
+<p>版权声明：授权翻译，如需转发请注明原英文地址和图片版权声明。<br><a id="more"></a>   </p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">原文地址：http:<span class="comment">//britsketch.blogspot.com/2014/02/frozen-elsa.html  </span></div><div class="line">图片版权所属：迪士尼动画制片厂（Walt Disney Animation Studios）。</div></pre></td></tr></table></figure>
+
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/11/custume_01.jpg" alt=""></p>
+<p>当我们谈论动画电影，尤其是动画电影中的服装，我们倾向于用 1 或 2 套标志性的服装来定义某个角色。辛德瑞拉（灰姑娘）有农妇服和魔法礼服。布里娅·萝丝（睡美人）也有，不过她的魔法礼服会不停地在蓝粉两色之间转换。爱丽丝有她标志性的蓝裙子，而彼得·潘（小飞侠）没有他的羽毛帽和紧身衣就不能称作小飞侠了！</p>
+<p>然而，《冰雪奇缘》可要麻烦得多。当我们为我们的主角决定「英雄」服装的时候，叙事却需求比典型的动画电影多得多的服装变化。由于服装要求的数量之巨和复杂多变（我的意思是各种裙子、马裤、紧身衣、手套、帽子、等等等等的层次关系），《冰雪奇缘》可能是有史以来最讲究穿着的动画电影。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/11/custume_02.jpg" alt=""></p>
+<p>电影中的服装好像有他们自己的生命。无论怎样，他们都通过视觉表现支撑了叙事需求。每块布料上的剪裁、颜色和细节上的设计都是有理由的。安娜一开始的穿着使用了明黄色的调子，她的衣服在她的成长过程终始终保持暖绿色。当她成年后第一次出场时，她又穿回了那件黄色的裙子——就和她还是个顽强的五岁孩子时的一样。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/11/custume_03.jpg" alt=""></p>
+<p>另一方面，艾莎的服装变化幅度就相当大。她穿着一席淡蓝色的晚礼服，而且由于成长和与世隔绝，她着装的调子变得更深且暗得多。她的袖子变长而且还戴上了手套，因此她的肌肤不再暴露于空气之中。甚至她的发型也被束得更紧。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/11/custume_04.jpg" alt=""></p>
+<p>尽管已长大成年，姑娘们仍旧通过服装来加强个性。艾莎的加冕礼服华贵但拘束，与之相对，安娜的加冕礼服却用百褶彰显快乐。尽管加冕典礼是一个非常正式的事情，但安娜似乎只有盘扎起来的头发才符合严肃的气氛。为了保持她欢快地形象，我们因而在她的头发上增添了缎带，并因此能有许多漂亮的随动动作[1]。通过在她的旅行头斗篷缝上许多羊毛球（同时还有 rosemaling[2] 的设计）来增加的随动动作，也展现出了和缎带相同的理念，以增强她欢乐的形象。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/11/custume_05.jpg" alt=""></p>
+<p>《冰雪奇缘》中我工作的大头就在服装设计部门。我的工作涉及到了这对姐妹、国王和王后、皇家护卫、奥肯（Oaken，旅店老板）的背带和羊毛衫组合、甚至包括巨魔的服装到底该是什么样。告诉你！我再也不会以原来的方式看衣服了！</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/11/custume_06.jpg" alt=""><br><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/11/custume_07.jpg" alt=""><br><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/11/custume_08.jpg" alt=""><br>(我真心希望有人能够为成年人生产这件羊毛衫。我觉得未来它可以用在一个叫做「我们穿着很丑但是很酷炫的毛衣」圣诞聚会上。)  </p>
+<p>所有图片版权均属迪士尼动画制片厂（Walt Disney Animation Studios）所有</p>
+<p>事实上，在设计的服装的工作中，因为突然意识到其中的很多衣服可以生产出来给小孩子穿而有些小小的开心。但是，好像没什么成年人会穿这里面的衣服，比如我。安娜的靴子！？还是算了吧。</p>
+<hr>
+<p>译注：<br>[1] 随动动作（Scondary Motion），也可以翻作次级动作、二级动作。动画术语，指的是被主要动作带动的物体因惯性产生的动作。<br>[2] Rosemåling 挪威的一种装饰性花纹，本文作者曾写过此元素在本片中的应用，我的翻译在<a href="/2014/02/20/forzen-rosemaling/">这里</a>。  </p>
+<p>其他更多的《冰雪奇缘》相关内容请点击<a href="/tags/Frozen/">这里</a>。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>本文翻译自迪士尼女艺术家 Brittney Lee 的 <a href="http://britsketch.blogspot.jp/2014/02/frozen-costume-design.html" target="_blank" rel="external">Frozen - Costume Design</a> 一文。</p>
+<p>版权声明：授权翻译，如需转发请注明原英文地址和图片版权声明。<br>]]>
+    
+    </summary>
+    
+      <category term="Frozen" scheme="http://erelief.me/tags/Frozen/"/>
+    
+      <category term="设计" scheme="http://erelief.me/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="绘画" scheme="http://erelief.me/tags/%E7%BB%98%E7%94%BB/"/>
+    
+      <category term="翻译" scheme="http://erelief.me/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="Animation" scheme="http://erelief.me/categories/Animation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[加州艺术学院的一堂角色设计讲座]]></title>
+    <link href="http://erelief.me/2014/03/18/calart-lecture/"/>
+    <id>http://erelief.me/2014/03/18/calart-lecture/</id>
+    <published>2014-03-18T14:20:40.000Z</published>
+    <updated>2015-01-15T05:56:56.000Z</updated>
+    <content type="html"><![CDATA[<p>这是角色设计师 <a href="http://en.wikipedia.org/wiki/Robert_Ryan_Cory" target="_blank" rel="external">Robert Ryan Cory</a> 在加州艺术学院（CalArts）上的一次面向学生的角色设计讲座。Robert<br>Ryan Cory 是《<a href="http://www.flickr.com/photos/robertryancory/sets/72157619658736293/" target="_blank" rel="external">海绵宝宝</a>》、<a href="http://www.flickr.com/photos/robertryancory/sets/72157626667915673/" target="_blank" rel="external"><em>Secret Mountain Fort Awesome</em></a> 的角色设计师。  </p>
+<p>讲座的内容原放在他的 <a href="http://www.flickr.com/photos/robertryancory/" target="_blank" rel="external">Flickr</a> 和 <a href="https://www.facebook.com/photo.php?fbid=833375610011190&amp;set=pb.100000162757977.-2207520000.1421299685.&amp;type=3&amp;theater" target="_blank" rel="external">Facebook</a> 上以图片的形式展示了出来。但是讲座的最后一部分他并没有配图，后来在 Facebook 上他也做了不少补充说明，因此我没有直接改图片，就直接以文本的形式发上来了。大部分小标题是为了方便阅读我自己加的。整段的斜体内容为 Facebook 上作者的补充说明。</p>
+<blockquote>
+<p>版权申明：未授权翻译，版权归原作者所有。</p>
+</blockquote>
+<a id="more"></a>   
+
+<p>画画是<strong><em>没有</em></strong>规定的！</p>
+<p>相反，最好把遵循那些「绘画窍门」的行为视作作茧自缚的表现。</p>
+<h2 id="视觉公式">视觉公式</h2>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic01.jpg" alt=""></p>
+<p>什么时候以及怎么用这些方法，取决于你对绘画、场景或内容的具体打算.</p>
+<h2 id="绘画练习">绘画练习</h2>
+<p>一个合格的艺术教育应当顾及到方方面面的练习。就像一个只练上半身的健身者看上去总是有些怪怪的……</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic02.jpg" alt=""></p>
+<p>一个只关注某个领域的艺术家就跟怪人无异。</p>
+<p><strong>学习（Educational），训练（Disciplinary），实验（Experimental）</strong><br>这些不同的绘画训练，都应该被分入你需要持之以恒的每日作业之中去。</p>
+<h3 id="学习性绘画">学习性绘画</h3>
+<p>临摹一种你现在还不会的绘画本领。这可以提高你观察和分析的技巧。</p>
+<h3 id="训练性绘画">训练性绘画</h3>
+<p>通过建立一个每天一丝不苟地「画完」的节奏，以使你的技巧日益精进。这可以提高你的专注度。</p>
+<p><em>训练性绘画是一种日常工作。基本上就是用你已知的技能至少一天画上 8 小时，从草稿到成品不停重复。这是绘画中有节奏的一部分。它能让你更专注的原因一方面它可以练习画技，另一方面可以拓展多样性。</em></p>
+<h3 id="实验性绘画">实验性绘画</h3>
+<p>用没有目的的画画来作为一种乐趣或是放松，而且这么做的真的会有「<em>意外收获</em>」。</p>
+<p>只要坚持这三种训练途径，久而久之你就可以建立一种属于自己的「内化的参考文件」,从而形成你自己独一无二的风格。</p>
+<p><em>当我说 3 种方式每天都要做的时候，我指的不是把他们平均分配。学习性绘画要比训练性和实验性耗费更多的精力。我建议一天花上 2 小时即可。不这么做你只会克隆，永远不会形成自己的风格。</em></p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic03.jpg" alt=""><br>2003</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic04.jpg" alt=""><br>2013  </p>
+<p><strong>你可以试着跳过这些过程，但你最终会碰到你年龄或经验上的瓶颈。</strong></p>
+<p>尽管现代社会如此浮躁，但你能做的却只有脚踏实地、关注当下，而不会提前成为你想在 30、40 或 50 岁成为的那种艺术家。</p>
+<p>所以试着享受这个缓慢的过程吧！反正你也逃避不了，这才是对一个艺术家的定义……名声、偏好、工作或金钱这些都只会让你分心！</p>
+<hr>
+<h2 id="设计的基本">设计的基本</h2>
+<p>设计的基本要义是聚焦观众。</p>
+<p>尤其是对动画来说，设计就是「信息传递」的媒介。</p>
+<p>现在，让我们来解决一个问题：如何向观众说明一个角色是个「大厨」。</p>
+<p>这里有好几中可以采纳的方式：</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic05.jpg" alt=""><br><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic06.jpg" alt=""><br><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic07.jpg" alt="">  </p>
+<p>最终选择永远取决于我们希望如何传递其他方面的附加信息，以及 T A的功能性、在场时间、构图并考虑 TA 与其他角色之间的互动等因素来确定。</p>
+<h2 id="好的设计">好的设计</h2>
+<p>我们拿出最传统的这个设计方案来说明问题。</p>
+<p>在这个方案中，我想交代两件事：</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic08.jpg" alt=""> </p>
+<p>他是一个大厨而且性格豪爽。以这个为前提，这个传统设计方案已经让这两个信息（形状）最凸显（最大\最具可读性)。<br>可以把这个称作：  </p>
+<font color="red"><strong><em>聚焦块</em>（Focal Mass）</strong></font>
+
+<p>在明确了聚焦块以后所添加的其他部分则被称作：  </p>
+<font color="green"><strong><em>辅助块</em>（Supporting Mass）</strong></font>  
+
+<p>这就是如何来确定设计的方式。把<font color="red">聚焦块</font>和<font color="green">辅助块</font>的体积区分开来，可以以此来测试这个设计的效果：</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic09.jpg" alt=""></p>
+<p>两者的区别越大，你想表达的信息（对比\关注点）的效果就越清晰。</p>
+<p>这就是<strong>「好的设计」</strong>。</p>
+<h2 id="迎合大众">迎合大众</h2>
+<p>正如我前面所说的，绘画没有规则！遵循那些所谓「规则」不过是作茧自缚而已！</p>
+<p>现在，我们还是用同样的方案，不过让<font color="red">聚焦块</font>和<font color="green">辅助块</font>保持对称。这次，设计者对观众的焦点存疑，所以取而代之的设计变得柔和（没有对比/中庸）。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic10.jpg" alt=""></p>
+<p>这就叫做「迎合大众」（Appeal）。</p>
+<p><em>对我来说，迎合大众就意味着对称。试着想象一下我把一个橘子放在桌子上让你看着，然后把它对半切开。我没有任何理由说服你喜欢左面一半还是右边一半……你对它们的爱不会有偏颇。但是如果我把它切成三块，由于它们不再平均，或许你会喜欢上中间那块。</em></p>
+<p><em>这牵扯到人类的决断力。我们天生喜爱大块、粗壮的东西。在六个洲都分别发现了不同文化中类似的生育女神像，因为我们都爱丰乳肥臀。</em></p>
+<p>这是一个设计师永恒的斗争，我们的设计到底是需要迎合更多的观众，还是需要更多的对比以保持它的有趣和独特？</p>
+<p><strong>「迎合」是一种愚蠢的画法！</strong></p>
+<p>它既幼稚也<em><strong>没有任何</strong></em>想法在里面。然而，「对比」却可以在创作者和观众之间设立门槛，把入门级的审美品位拒之门外。</p>
+<p>这个理念可以从以往的绘画延伸到各种各样的艺术形式：音乐、写作、舞蹈以及其他种种。<strong>流行 vs. 爵士</strong>也是这个道理。</p>
+<h2 id="对比">对比</h2>
+<p>「对比」会从整体框架到细枝末节覆盖到设计的方方面面。</p>
+<p>对「对比」的定义的会给人感觉是有机[1]的，可以用奇数来呈现：<br>1, 3, 5, 7, 9 …</p>
+<p>而「迎合」的定义则给人感觉机械[2]或对称，可以用偶数来呈现：<br>2, 4, 6, 8 …</p>
+<p>细枝会固化所有需要传递的信息。它决定了结构、风格和关注点。所以，当我们需要<em>强调</em>这是一个有机（或是机械）的对象时，我们可以用这些数字进一步加强这种对比。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic11.jpg" alt=""></p>
+<p>当我们<em>故意</em>打破这个规律的时候，就会产生一些有趣的事情。</p>
+<p>在有机对象的上的机械细节会产生出古怪（有趣/天真）的设计效果。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic12.jpg" alt=""></p>
+<p>墨比斯和士郎正宗[3]都依靠在有机体上放入机械细节而成就了他们的事业。</p>
+<p>有时候设计就像是在走钢丝，需要保持微妙的平衡。除非你不再面向荧幕和观众，否则设计永远不会无聊也无明确的规则可循。</p>
+<h2 id="聚焦范围">聚焦范围</h2>
+<p>现在我们会回过头来看看另一个常见问题：大厨已经设计好了，但现在场景需要我们把注意力放在他拿着的派上。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic13.jpg" alt=""></p>
+<p>当然，我们可以先解决让排演[4]或剪影清晰可辨这种基础问题。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic14.jpg" alt=""></p>
+<p>我们可以把派弄成最大的聚焦块……但是这样下去就成了不同体块之间你争我夺的军备竞赛，反而没了重点。所以这招不是所有时候都能用。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic15.jpg" alt=""></p>
+<p>这一次，又到了细节决定了「信息传递」的时候……</p>
+<p>通过创建一个围绕物体的<strong>聚焦范围（Focal Radius）</strong>，我们可以重新编排所有细节来凸显主体或关键点。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic16.jpg" alt=""></p>
+<p>聚焦范围可以帮助我们再一次检查工作成果。实际上，它可以帮助我们组织每个部分需要多少存在感，以及画面的线条关系。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic17.jpg" alt=""></p>
+<h2 id="整体框架">整体框架</h2>
+<p>没有一个设计师是机器人。就像一个作家会斟字酌句来保持读者兴趣和参与感。一个合格的设计师也需要依靠多种途径来寻找<em>最佳位置</em>（Sweet Spot）。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic18.jpg" alt=""></p>
+<p>因此，当我们在修正的自己的画时，可以换一种方式清理聚焦块的外边框，或是辅助块的内部线条，来即刻增加对比度。</p>
+<p>反之，则变得更迎合大众。</p>
+<p>有机和机械之间的对抗也在我们整体框架的设计中起到了很大的影响。  </p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/08/pic19.jpg" alt=""><br>2 头身的角色比 3 头身的更迎合观众。  </p>
+<p>（讲座剩余的部分原作者没有配图）</p>
+<p>占脸部一半面积的的眼睛总比占 1/3 的更迎合大众。</p>
+<p>只按偶数排布的线条会比按奇数的更迎合大众。</p>
+<h2 id="轮廓_vs-_结构">轮廓 vs. 结构</h2>
+<p>这就提到我最后一个关于的设计基础的要点。线稿有两种绘画方式，轮廓（Contour）和结构（Constructive）。     </p>
+<p>轮廓绘画松散但充满活力，而且只有在连接的地方才有稳固明确的线条。</p>
+<p>与之相对，结构绘画则是在体块质量的基础上进行塑造，而且只会依据透视来连接线条。</p>
+<p>由于动画参与的人手众多，让结构绘画占据统治地位会让动画更具操作性。</p>
+<p>结构绘画可以被解释，分解，拆卸，还可以易手他人修理。</p>
+<p>轮廓绘画则更迎合大众，更有活力……不过它会在纸上乱成一团而且没有两个艺术家能画成一样。</p>
+<p>不过我们可以通过拓展结构绘画的属性来欺骗观众的眼睛，使他们把结构绘画看成轮廓绘画。</p>
+<p>通过建构一个结构性框架，把线条接以偶数（平均/对称）的方式放进去，再从画面内部中去掉能彰显结构的细节，我们就创造了一个两面兼顾的设计。</p>
+<p>与之相对，一个建立在轮廓之上但内部细节则依据结构安放的框架，则是法拉捷特[5]的作品为什么能够在有如此丰富的生命力的同时，仍然感觉画面扎实的原因。如果你去临摹一下的话你就知道这是真的了。</p>
+<h2 id="结语">结语</h2>
+<p>设计是一种精工细作的艺术形式。也许你只需要花一年时间就可以掌握基本理念，但是，也许你要在工作台上穷尽一生来掌握它的方方面面，而且永远找不到完美的设计。</p>
+<p>并不是所有的人都需像我一样为了营生而如此去思考和绘画。事实上，我更希望你们能不这样。</p>
+<p>不过把这些观察力储备起来，你就能找到不依靠「感觉」或他人评判的自我修正的能力。当你把自己的见解，经历和幽默感组合在一起的时候，你就能成为一个打破常规的艺术家。</p>
+<p>我也是个站在巨人肩膀上的人，所以我爱德·本尼迪克特[6]、琳恩·奈勒[7]和克雷格·科尔曼[8]这些大师曾花时间启发年轻的我充满敬意，因而回馈这些知识。</p>
+<hr>
+<h2 id="译注：">译注：</h2>
+<p>[1] 有机（Organic），这里表示既有序又有生命力。<br>[2] 机械（Mechanic），这里表示虽然有序但是稳定呆板，缺乏生命力。<br>[3] 墨比斯（Moebius，法国人）和士郎正宗都是著名的科幻漫画家，两人都以半机械半生物的设计见长，但在风格上有差异。<br>[4] 排演（stage），有很多种可以解释的方法，这里采用《动画角色设计》一书翻译中所使用的戏剧专业词汇来做解释。<br>[5] 法兰克·法拉捷特（Frank Frazetta）又译作法兰克·佛列兹塔。是一位传奇的漫画家、插画家，亦是奇幻画派（Fantasy Art）的先驱。法拉捷特对人体的肌理表现扎实，油画作品生动、充满力度，也有着一种旧日时光的幽雅。（摘自 wikipedia）<br>[6] 爱德·本尼迪克特（Ed Benedict），已故著名美国动画师和设计稿艺术家，最出名的是其在汉纳-芭芭拉工作室的工作，包括《摩登原始人》、《瑜伽熊》等。<br>[7] 琳恩·奈勒（Lynne Naylor），动画概念艺术家，主要作品有《怪兽大战外星人》等。<br>[8] 克雷格·科尔曼（Craig Kellman），动画导演，主要作品有《马达加斯加 2》、《精灵旅社》等。  </p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>这是角色设计师 <a href="http://en.wikipedia.org/wiki/Robert_Ryan_Cory" target="_blank" rel="external">Robert Ryan Cory</a> 在加州艺术学院（CalArts）上的一次面向学生的角色设计讲座。Robert<br>Ryan Cory 是《<a href="http://www.flickr.com/photos/robertryancory/sets/72157619658736293/" target="_blank" rel="external">海绵宝宝</a>》、<a href="http://www.flickr.com/photos/robertryancory/sets/72157626667915673/" target="_blank" rel="external"><em>Secret Mountain Fort Awesome</em></a> 的角色设计师。  </p>
+<p>讲座的内容原放在他的 <a href="http://www.flickr.com/photos/robertryancory/" target="_blank" rel="external">Flickr</a> 和 <a href="https://www.facebook.com/photo.php?fbid=833375610011190&amp;set=pb.100000162757977.-2207520000.1421299685.&amp;type=3&amp;theater" target="_blank" rel="external">Facebook</a> 上以图片的形式展示了出来。但是讲座的最后一部分他并没有配图，后来在 Facebook 上他也做了不少补充说明，因此我没有直接改图片，就直接以文本的形式发上来了。大部分小标题是为了方便阅读我自己加的。整段的斜体内容为 Facebook 上作者的补充说明。</p>
+<blockquote>
+<p>版权申明：未授权翻译，版权归原作者所有。</p>
+</blockquote>
+]]>
+    
+    </summary>
+    
+      <category term="翻译" scheme="http://erelief.me/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="设计" scheme="http://erelief.me/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="绘画" scheme="http://erelief.me/tags/%E7%BB%98%E7%94%BB/"/>
+    
+      <category term="Animation" scheme="http://erelief.me/categories/Animation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[《冰雪奇缘》之冰宫]]></title>
+    <link href="http://erelief.me/2014/03/18/frozen-building/"/>
+    <id>http://erelief.me/2014/03/18/frozen-building/</id>
+    <published>2014-03-18T14:04:08.000Z</published>
+    <updated>2015-01-14T17:44:12.000Z</updated>
+    <content type="html"><![CDATA[<p>本文主要结合了 Brittney Lee 对于<a href="http://britsketch.blogspot.com/2014/01/frozen-elsa-and-her-ice-palace.html" target="_blank" rel="external">冰宫设计</a>的背景介绍和我自己的理解以及补充。<br><a id="more"></a>   </p>
+<h3 id="《冰雪奇缘》的冰宫是如何建成的，有哪些细节和特色？">《冰雪奇缘》的冰宫是如何建成的，有哪些细节和特色？</h3>
+<p>要回答这个问题，首先要搞明白艾莎（Elsa）为什么要建宫殿？只有明白了这个动机才能解释这个宫殿的特色。</p>
+<p>这里藏着一个故事前半段的小暗线：艾莎作为一个艺术家的自我实现。</p>
+<p>大家回想一下电影刚开始的场景，安娜（Anna）最开始劝说艾莎一起玩的时候，艾莎是不同意的，直到安娜说「Do you want to build a snow man? （你想造个雪人吗？）」这才说动了艾莎。两人在游玩的过程中，安娜是真正的在「玩」，而艾莎做的是什么？给妹妹提供「玩具」。对于艾莎来说，乐趣在于创造。从这一点也可以看出虽然同样是对自由渴望，姐妹俩却表现了不同的形式，这是后话。</p>
+<p>因为误伤妹妹让艾莎的生活急转直下，除了封闭压抑自己以外，不能使用魔法对艾莎另一个残酷的事实在于：她被剥夺了创作的权利。用来表达这个的意象就是那副手套。</p>
+<p>这并不是过度解读。参与宫殿的设计的迪士尼艺术家 Brittney Lee 是这么说的：「Elsa is an artist. She expresses herself through creation.（艾莎是一个艺术家。她通过创作表达自己。）」而且，艾莎的创作欲望也直接提现在了 <em>Let it go</em> 的歌词里：「It’s time to see what I can do，To test the limits and break through（是时候看看我能做什么，试试我的极限并突破它）。」</p>
+<p>因此她建造宫殿的原因之一就是需要表达自己；另一面，她也需要靠冰宫来保护自己与世隔绝。</p>
+<p>这座宫殿正是艾莎此时矛盾心情的具象化。</p>
+<hr>
+<p>理解了她的原因，再来看她的设计语言。</p>
+<p>我们过去常看到的各种「冰雕」式的城堡只是把冰块作为材料去模仿现成的建筑。连迪士尼早期设计也是这样。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/18/building01_01.jpg" alt="">  </p>
+<p>虽然挺有深宫的寂寞在里面，也足够漂亮，可总是少了一点特色。当然，应该说是幸运，后来就不是这样了。</p>
+<p>整个「冰雪宫殿」的设计哲学都体现在歌词里了（注：歌词翻译取自 <a href="http://www.yyets.com/resource/30234" target="_blank" rel="external">YYeTs-人人影视</a>版）。</p>
+<blockquote>
+<p>The power flurries through the air into the ground.<br>雪花满天飘下，这就是我的魔法。<br>My soul is spiraling in frozen fractals all around.<br>冰片旋转纷飞，是我的灵魂在升华。<br>And one thought crystallizes like an icy blast.<br>思绪结晶成冰凌，是冰雪的爆炸。  </p>
+</blockquote>
+<p>可以看到，整个宫殿的建造方式的基础就是各种冰的形态。</p>
+<p>这个设计语言体现在了很多地方：扶梯可能参考了冰凌、「Here I stand」那一句就是一朵大雪花、四面墙则是冰山以及屋顶用了霜等等。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/18/building01_02.jpg" alt="">  </p>
+<p>其中，冰最具美学的形态就是冰晶，在自然界中最常出现的形态就是雪花，它有一种高度对称性的结构。除了对称之外，雪花还有一个有意思的特点就是——Fractal。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/18/building01_03.jpg" alt="">  </p>
+<p>Fractal 也就是「分形」，也就是雪花最有特点的地方。「分形」通常定义为：一个粗糙或零碎的几何形状，可以分成数个部分，且每一部分都（至少近似地）是整体缩小后的形状。（注：维基百科相关词条）毋庸置疑，整个宫殿的设计都大量使用了冰晶。</p>
+<p>另外，整部片子的艺术风格是建立在挪威萨米族的民族风格之上，Rosemaling[1] 是艾莎（也就是迪士尼）赋予冰花的艺术属性。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/22/rosemaling_01.jpg" alt=""><br><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/18/building01_04.jpg" alt=""><br>（此图来自 Frozen 的概念艺术师 Lisa Kanne：<a href="http://www.lisakeene.com/frozen.html，" target="_blank" rel="external">http://www.lisakeene.com/frozen.html，</a> 图中的少女穿着即典型萨米族的服饰。）</p>
+<hr>
+<p>呼应到艾莎的心情，可以看到冰和分形的两个特点：扩张和危险。</p>
+<p>扩张自然不用说，分形就是从内向外扩展的，也是表达了艾莎的喷涌而出的表现欲。然而这也带来了能力扩散的危险，从大的来说艾莎在建宫殿的过程中由于魔力释放过度导致整个艾伦戴尔（Arendelle）进入冬天。中等规模来讲，把宫殿造在悬崖上给人一种不稳定的感觉。而细小来看，艾莎的创作元素全是尖锐的，像刺一样的向外指着，尤其是那个吊灯，在歌中称之为是由她思绪凝结成的「icy blast」，艾莎的心情因这个冰灯暴露无遗。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/03/18/building01_05.jpg" alt="">  </p>
+<p>这里不得不说是一个伏笔，那个吊灯的形状就是为了后面掉下来而设计的，冰梯就是为了断掉才架在悬崖上的。</p>
+<p>作为一个对比，儿时的艾莎建造的却都是圆润的滑梯，更说明了艾莎内心的变化。</p>
+<p>虽然艾莎嘴上说她此时克服了恐惧，但是她对宫殿的设计上却依然表现了对外界的害怕，内饰的攻击性，把冰宫造在悬崖上都能体现这些——她是在逃避恐惧。要说这矛盾最明显的地方，就是在地板冰晶扩散最边缘之处，却又用厚厚的冰山墙把它包住了。</p>
+<p>对于一部电影来说，此时戏都不过一半，艾莎还有很长的「心智之路」要去完成，此时此刻她还是十分矛盾的一个角色。安娜「以为」找到了自己的真爱，艾莎则「以为」自己找到了自由，好戏都还在后头呢。</p>
+<hr>
+<p>译注：<br>[1] Rosemåling 挪威的一种装饰性花纹，本文作者曾写过此元素在本片中的应用，我的翻译在<a href="/2014/02/20/forzen-rosemaling/">这里</a>。  </p>
+<hr>
+<p><a rel="external" href="http://creativecommons.org/licenses/by-sa/3.0/cn/" target="_blank"><img alt="知识共享许可协议" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/cn/88x31.png"></a><br>本作品<strong>文字部分</strong>采用<a rel="external" href="http://creativecommons.org/licenses/by-sa/3.0/cn/" target="_blank">知识共享署名-相同方式共享 3.0 中国大陆许可协议</a>进行许可。</p>
+<p>图片版权除非声明均属于迪士尼动画制片厂（Walt Disney Animation Studios）版权所有。</p>
+<p>其他更多的《冰雪奇缘》相关内容请点击<a href="/tags/Frozen/">这里</a>。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>本文主要结合了 Brittney Lee 对于<a href="http://britsketch.blogspot.com/2014/01/frozen-elsa-and-her-ice-palace.html" target="_blank" rel="external">冰宫设计</a>的背景介绍和我自己的理解以及补充。<br>]]>
+    
+    </summary>
+    
+      <category term="设计" scheme="http://erelief.me/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="绘画" scheme="http://erelief.me/tags/%E7%BB%98%E7%94%BB/"/>
+    
+      <category term="Frozen" scheme="http://erelief.me/tags/Frozen/"/>
+    
+      <category term="Animation" scheme="http://erelief.me/categories/Animation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[《科幻概论》公开课中推荐的 Cyberpunk 内容]]></title>
+    <link href="http://erelief.me/2014/03/03/Cyberpunk/"/>
+    <id>http://erelief.me/2014/03/03/Cyberpunk/</id>
+    <published>2014-03-02T19:09:40.000Z</published>
+    <updated>2015-01-12T19:45:48.000Z</updated>
+    <content type="html"><![CDATA[<p>国立清华大学的公开课《<a href="http://ocw.nthu.edu.tw/ocw/index.php?page=course&amp;cid=3&amp;" target="_blank" rel="external">科幻概论</a>》里有几节课讲过 <a href="http://www.iqiyi.com/edu/20130221/e782fa428ca0d283.html" target="_blank" rel="external">Cyberpunk</a>，由于我个人比较喜欢，就把这几节课中提到的作品抽出来了。在下并没有全部看过/玩过，算无责任推荐了。</p>
+<p>说明：以下内容整理自相关课件，均采用英文原名以防止中文名撞车。<a href="https://www.facebook.com/drscifi" target="_blank" rel="external">難攻博士</a>（鄭運鴻）本人口味个人觉得并不是很主流，比如下文提到的 <em>Jonny Mnemonics</em> 在豆瓣或 IMDb 上的评分不高，但博士本人推荐度却不低；推荐的游戏都相当有年头，很多都是 DOS 时期的了。下面所有加粗的内容为课中多次推荐或播放过预告的内容，均不代表本人口味。此公开课开课于 2010 年，所以不会涉及到之后的作品。</p>
+<blockquote>
+<p>本列表内容遵照原公开课方式分享，请遵守：<br><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/tw/deed.zh" target="_blank" rel="external">署名-非商业性使用-相同方式共享 3.0</a><br>公开课原地址：<a href="http://ocw.nthu.edu.tw/ocw/index.php?page=course&amp;cid=3&amp;" target="_blank" rel="external">http://ocw.nthu.edu.tw/ocw/index.php?page=course&amp;cid=3&amp;</a>  </p>
+</blockquote>
+<h1 id="「難攻博士」推荐：Cyberpunk">「難攻博士」推荐：Cyberpunk</h1>
+<h2 id="小说">小说</h2>
+<h3 id="William_Gibson">William Gibson</h3>
+<ul>
+<li>蔓生都会三部曲（Sprawl Trilogy）<ul>
+<li><strong>Neuromancer （1984）</strong>已引进，《神经浪游者》/《神经漫游者》/《神經喚術士》/《网络独行侠》（…）</li>
+<li>Count Zero （1986）</li>
+<li>Mona Lisa Overdrive （1988）</li>
+</ul>
+</li>
+<li>旧金山三部曲（San Francisco Trilogy）<ul>
+<li>Virtual Light （1993）</li>
+<li>Idoru （1996）已引进，《虚拟偶像爱朵露》/《阿伊朵》</li>
+<li>All Tomorrow’s Parties （1999）</li>
+</ul>
+</li>
+<li>与 Bruce Sterling 合著<ul>
+<li>The Difference Engine （1991）已引进，《差分机》（注：这是第一本 Steampunk 的小说，这里应该有误）</li>
+</ul>
+</li>
+<li>短篇精选辑<ul>
+<li>Burning Chrome （1986）已引进，《全息玫瑰碎片》</li>
+<li>其中 Jonny Mnemonic 写成于 1981，并于 1995 年改拍成电影。</li>
+</ul>
+</li>
+<li>最新作品<ul>
+<li>Pattern Recognition （2003）</li>
+</ul>
+</li>
+</ul>
+<h3 id="Bruc_Sterling">Bruc Sterling</h3>
+<ul>
+<li>The Artificial Kid （1980）</li>
+<li>The Hacker Crackdown （1992）（注：这本书我查过了，并不是 Cyberpunk 小说，而是一本讲述黑客历史的书，放在这里应该是郑老师有误。Bruc Sterling 同时还是一位著名的互联网思想家。）</li>
+</ul>
+<h3 id="Neal_Stephenson">Neal Stephenson</h3>
+<ul>
+<li>The Diamond Age （1995）</li>
+</ul>
+<h2 id="游戏">游戏</h2>
+<ul>
+<li><strong>Syndicate 系列</strong></li>
+<li><strong>System Shock 系列</strong></li>
+<li>Meat Puppet （1997）</li>
+<li><strong>Deus Ex 系列</strong></li>
+<li>Uplink: Hacker Elite （2003）</li>
+</ul>
+<h2 id="TRPG">TRPG</h2>
+<ul>
+<li><strong>GUPRS Cyberpunk 系列</strong>（郑老师对 Cyberpunk 的定义方式来自本游戏的规则手册）</li>
+<li>Cyberpunk 系列（主要是 Cyberpunk 2020）</li>
+<li>Chiliad （找不到相关内容……）</li>
+<li>hadowrun 系列</li>
+</ul>
+<h2 id="电影">电影</h2>
+<ul>
+<li><strong>TRON （1982）</strong>（特别提一下，这部郑老师本人标注的是 pre-cyberpunk）</li>
+<li>The Lawnmower Man （1992）</li>
+<li>Virtuosity （1995）</li>
+<li>Strange Days （1995）（我个人挺推荐这个的，导演为此题材中少见的女性。）</li>
+<li><strong>Johnny Mnemonic （1995）</strong></li>
+<li>eXistenZ （1999）</li>
+<li><strong>The Thirteenth Floor（1999）</strong>（郑老师的最爱，自称看过几十遍。但我个人觉得此片 Punk 味不足。）</li>
+<li><strong>The Matrix （1999）</strong>（郑老师特别强调了只有第一部……）</li>
+<li><strong>Gamer （2009）</strong></li>
+<li><strong>Surrogates （2009）</strong></li>
+</ul>
+<h2 id="动画或漫画">动画或漫画</h2>
+<ul>
+<li><strong>《攻殼機動隊》系列</strong></li>
+<li><strong>《铳梦》</strong></li>
+<li><strong>Akira（1988）</strong>（这个也挺勉强的）</li>
+<li>The Animatrix （即 <em>The Matrix</em> 系列动画版）</li>
+</ul>
+<p>最后，在课中被列为考试范围或在课中放过的片子为 <em>Tron</em>、<em>The Matrix</em>（第一部）、<em>Johnny Mnemonic</em> 和 <em>The Thirteenth Floor</em>。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>国立清华大学的公开课《<a href="http://ocw.nthu.edu.tw/ocw/index.php?page=course&amp;cid=3&amp;" target="_blank" rel="external">科幻概论</a>》里有几节课讲过 <a h]]>
+    </summary>
+    
+      <category term="科幻" scheme="http://erelief.me/tags/%E7%A7%91%E5%B9%BB/"/>
+    
+      <category term="Cyperpunk" scheme="http://erelief.me/tags/Cyperpunk/"/>
+    
+      <category term="Others" scheme="http://erelief.me/categories/Others/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[《冰雪奇缘》之 Rosemåling]]></title>
+    <link href="http://erelief.me/2014/02/20/forzen-rosemaling/"/>
+    <id>http://erelief.me/2014/02/20/forzen-rosemaling/</id>
+    <published>2014-02-20T12:43:28.000Z</published>
+    <updated>2015-01-14T17:09:20.000Z</updated>
+    <content type="html"><![CDATA[<p>本文翻译自迪士尼女艺术家 Brittney Lee 的 <a href="http://britsketch.blogspot.com/2014/01/frozen-rosemaling.html" target="_blank" rel="external">Frozen - Rosemaling</a> 一文。</p>
+<p>版权声明：授权翻译，如需转发请注明原英文地址和图片版权声明。<br><a id="more"></a>   </p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">原文地址：http:<span class="comment">//britsketch.blogspot.com/2014/02/frozen-elsa.html  </span></div><div class="line">图片版权所属：迪士尼动画制片厂（Walt Disney Animation Studios）。</div></pre></td></tr></table></figure>
+
+<p>采风调研是我们工作中很大的一部分。当团队确定《冰雪奇缘》的故事发生在一个基于挪威的王国后，一个小组就被送往挪威去尽可能的搜集一些第一手的参考资料。这次旅行我们收获颇丰，当团队回来后，其中一个直接影响我关于这个项目工作的元素之一就是 rosemaling。（译注：这件事可以说是 Disney 的传统，除了设计搜集资料之外，他们的故事开发也常常受到调研的影响。Disney 的不朽名作《狮子王》就曾去肯尼亚展开过为期两周的采风。当时他们的故事开发曾陷入僵局——故事过于阴暗，主角 Sinba 难以让人喜欢。主创人员是在当地学到 Hakuna Matata 这句话才确定了最后故事的样子，也为世间多了首值得传唱的歌曲。）</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/22/rosemaling_01.jpg" alt="">  </p>
+<p>Rosemaling 是一种装饰性的民间绘画，在挪威它可以说是无处不在——从建筑到服装。我们的传奇艺术总监，Michael Giaimo （如果你不知道他是谁，自己去查一下吧），决定要为《冰雪奇缘》建立我们自己的 rosemaling 库——所以我来啦！</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/22/rosemaling_02.jpg" alt="">  </p>
+<p>在《冰雪奇缘》中我第一个月的工作就是专门致力于创造 Arendelle 世界的 rosemaling。我的工作从设计壁纸到挂毯（就像上面这些）、从画建筑设计到服装设计都有参与。我们发现设计 rosemaling 有一点很棒，那就是不会浪费。这个元素在影片中四处扩散，这些设计即使第一轮没有被选上，剩下的我们最后还是用到了。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/22/rosemaling_03.jpg" alt="">  </p>
+<p>对于服装，我们则希望 rosemaling 能加强各个人物的个性特征。Anna 是明亮、活泼的，所以她的 rosemaling 用的都是泡泡和花卉。Elsa 则是显得谨慎和端庄，所以她采用了狭长、文雅又有一点晶体化几何图形暗示的设计。由于 Kristoff 相对有一点局外，他的花纹就更几何而且带状化的，更直接反应了挪威萨米族（Saami）人的服饰设计元素。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/22/rosemaling_04.jpg" alt=""><br><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/22/rosemaling_05.jpg" alt="">  </p>
+<p>Arendelle 城堡里的挂毯也是一个有趣的挑战。它们必须接近我们通过 Arendelle 的 rosemaling 所建立的设计语言，但又要能够添加「叙事」元素。下面的挂毯最初只需要两套：一条展现「春」另一条则表示展现「冬」。我们最终决定应该做齐四季一套，所以「夏」和「秋」也融合了进去。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/22/rosemaling_06.jpg" alt=""><br><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/22/rosemaling_07.jpg" alt="">  </p>
+<p>所有图片版权均属迪士尼动画制片厂（Walt Disney Animation Studios）所有</p>
+<p>在《冰雪奇缘》的工作之初，我并不觉得自己对 rosemaling 有什么想法。事实上，我因能够参与这部动画的工作而激动不已，所以我乐意日复一日的乱涂这些设计。但现在回过头来我却又因这项任务激动不已。作为一个视觉开发（visual development）艺术家，作品最终能够进入成片的内容极其稀少。我们的职责是激发那些制作环节艺术家的灵感和告之他们设计语言，不过在这个片子中我却能够看到自己的作品被挂在了墙上或摺在了群边。这是很有魔力的。</p>
+<hr>
+<p>顺贴一个 rosemåling 的手绘教程，虽然全程英语但基本不听也没关系：<br><a href="http://video.sina.com.cn/v/b/126548881-1086116453.html" target="_blank" rel="external">http://video.sina.com.cn/v/b/126548881-1086116453.html</a></p>
+<p>其他更多的《冰雪奇缘》相关内容请点击<a href="/tags/Frozen/">这里</a>。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>本文翻译自迪士尼女艺术家 Brittney Lee 的 <a href="http://britsketch.blogspot.com/2014/01/frozen-rosemaling.html" target="_blank" rel="external">Frozen - Rosemaling</a> 一文。</p>
+<p>版权声明：授权翻译，如需转发请注明原英文地址和图片版权声明。<br>]]>
+    
+    </summary>
+    
+      <category term="翻译" scheme="http://erelief.me/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="设计" scheme="http://erelief.me/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="绘画" scheme="http://erelief.me/tags/%E7%BB%98%E7%94%BB/"/>
+    
+      <category term="Frozen" scheme="http://erelief.me/tags/Frozen/"/>
+    
+      <category term="Animation" scheme="http://erelief.me/categories/Animation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[《冰雪奇缘》艾莎育成记]]></title>
+    <link href="http://erelief.me/2014/02/13/frozen-elsa/"/>
+    <id>http://erelief.me/2014/02/13/frozen-elsa/</id>
+    <published>2014-02-13T12:16:58.000Z</published>
+    <updated>2015-01-14T17:41:32.000Z</updated>
+    <content type="html"><![CDATA[<p>本文翻译自迪士尼女艺术家 Brittney Lee 的 <a href="http://britsketch.blogspot.com/2014/02/frozen-elsa.html" target="_blank" rel="external">Forzen - Elsa</a> 一文。作为当下热点影片中最有魅力的角色，使得这篇文章对各位来说带入感就更深了。通过 Brittney 本人的描述，也可以展现出在动画创意阶段一个艺术家是怎么样去设计人物的过程。</p>
+<p>版权声明：授权翻译，如需转发请注明原英文地址和图片版权声明。<br><a id="more"></a>   </p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">原文地址：http:<span class="comment">//britsketch.blogspot.com/2014/02/frozen-elsa.html  </span></div><div class="line">图片版权所属：迪士尼动画制片厂（Walt Disney Animation Studios）。</div></pre></td></tr></table></figure>
+
+<p>我是一个艾瑞尔（译注：Ariel，《小美人鱼》的主角）一样的女孩。这件事对于常光临我博客来说的人并不陌生，但如果你是第一次来的话——现在你也知道了！《小美人鱼》在我很小的时候降临到我的生命里，然后，深深地，长远地改变了我。关于她的一切都是我长大以后想要的，而且因为没有她那红色甜美的外表和反重力的留海（还有尾鳍）在很长一段时间里让我的生活陷入烦恼。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/13/Elsa01.jpg" alt=""><br><em>艾莎的最终设计</em>  </p>
+<p>当我最初开始为《冰雪奇缘》工作的时候，艾莎是个非常与众不同的角色。她情绪化，又疑神疑鬼，唯一一件可以确定的事就是她是姐姐。随着故事团队越来越巧妙的推进她和她的动机，我越来越意识到比起艾瑞尔我更喜欢艾莎。当你一直幻想你是个天真烂漫的美人鱼时，然而事实上你更像一个冰雪皇后这件事就像一吨重的冰砖无情的砸在你身上。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/13/Elsa02.jpg" alt=""><br><em>上面两张图片说明了艾莎造型和配色的改变</em></p>
+<p>于是，在制作电影的过程中处理这个角色是经验非常私人的。艾莎的角色一直游走在拒人之外和同情的边缘，我想以任何我能做到的方式确保观众能喜欢她并像我那样理解她。处理这个角色在某个奇怪的角度来看是一种自卫练习。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/13/Elsa03.jpg" alt="">  </p>
+<p>我一开始收到的几个任务之一就是重新设计她的头发。最初她的发型有着清晰的轮廓，但随着人物性格的改变，她的头发也要跟着焕然一新。我们想要她更平易近人，更有浪漫色彩，但仍然保持一些挪威民族的特性。对了，有魔力——有魔力也是非常棒的。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/13/Elsa04.jpg" alt=""><br><em>最初通过的艾莎的辫子</em></p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/13/Elsa05.jpg" alt=""><br><em>最终的编织设计</em></p>
+<p>经过了多次对于头发的修改和研讨会，上面的设计成了最终赢家。这种设计有一种火焰般的品质，与她的冰雪力量相得益彰这一点令我非常喜爱。它即脆弱又锋利（就像她自己一样），而且又不是毫无意义的。艾莎没有时间去做头发——她只是随便一「冻」就继续她的表演了。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/13/Elsa06.jpg" alt="">  </p>
+<p>再有就是那件衣服，我不会交给别人来弄的我自己衣服，正如艾莎自己一样。这件衣服经过了很多，很多次的修改才适合我们的姑娘。剧中当这件裙子完成以后，艾莎也在她最自信的时候。在经过了数年的的控制和压抑自己的情感之后，她此时此刻打开胸怀并且获得了自由。由于服装的设计要能够支撑人物的性格，所以这件裙子需要被设计成是一次对解脱的壮美吐气。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/13/Elsa07.jpg" alt=""><br><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/13/Elsa08.jpg" alt="">  </p>
+<p>当艾莎冰雪女皇的形象确定以后，我们需要转过头来去建立当我们初次遇见她时，她是个什么样的角色。在她加冕礼之前，艾莎把一切都压抑了，她被控制和隔离。她最初绑麻花辫的方式反应了这点，加冕礼服和斗篷也一样。她那时候的样子是真正意义上她的王国和人民所期望那样的顶梁柱，因此她也完全隔绝于人们之外。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/13/Elsa09.jpg" alt=""><br><em>所有的图片均来自迪士尼动画制片厂，版权所有</em></p>
+<p>从我开始开展艾莎的设计工作到影片上映已经过去了两年，在这期间她经历了无数次的修改。对于她最后的定型的样子我非常高兴而且也很荣幸得到了这个机会。艾瑞尔会始终在我心中占据一片田地，不过如果我要对自己诚实的话……我是一个艾莎那样的女孩。</p>
+<p>其他更多的《冰雪奇缘》相关内容请点击<a href="/tags/Frozen/">这里</a>。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>本文翻译自迪士尼女艺术家 Brittney Lee 的 <a href="http://britsketch.blogspot.com/2014/02/frozen-elsa.html" target="_blank" rel="external">Forzen - Elsa</a> 一文。作为当下热点影片中最有魅力的角色，使得这篇文章对各位来说带入感就更深了。通过 Brittney 本人的描述，也可以展现出在动画创意阶段一个艺术家是怎么样去设计人物的过程。</p>
+<p>版权声明：授权翻译，如需转发请注明原英文地址和图片版权声明。<br>]]>
+    
+    </summary>
+    
+      <category term="翻译" scheme="http://erelief.me/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="设计" scheme="http://erelief.me/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="绘画" scheme="http://erelief.me/tags/%E7%BB%98%E7%94%BB/"/>
+    
+      <category term="Frozen" scheme="http://erelief.me/tags/Frozen/"/>
+    
+      <category term="Animation" scheme="http://erelief.me/categories/Animation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[电影中的时光旅行和背后的「科学」]]></title>
+    <link href="http://erelief.me/2014/02/04/time_travel_in_movies/"/>
+    <id>http://erelief.me/2014/02/04/time_travel_in_movies/</id>
+    <published>2014-02-04T12:00:46.000Z</published>
+    <updated>2015-01-14T17:21:34.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://ww3.sinaimg.cn/large/40bcd265gw1ed8rduu6kuj20m80vfdl2.jpg" alt=""><br>这次可不只是翻译这么简单哟。  </p>
+<p>注：非授权翻译自 <a href="http://mr-dalliard.tumblr.com/" target="_blank" rel="external">mr-dalliard.tumblr.com</a>，中文译名均来自<a href="http://movie.douban.com/" target="_blank" rel="external">豆瓣</a>默认翻译。版权归原作者所有。  </p>
+<p>其实这张图已经有过<a href="http://http://www.zhihu.com/question/20509136/answer/17482775" target="_blank" rel="external">两个版本</a>的中文翻译了，我也是因为这张图发现了 Mr. Dalliard 的<a href="http://mr-dalliard.tumblr.com/" target="_blank" rel="external">博客</a>，才找到了其他的信息图。</p>
+<p>但这张是最有意思的，也可能是因为「时光旅行」这个内容的背后有来自 20 世纪物理学上的「<a href="http://http://www.crup.com.cn/UploadFiles/bookavr/D1093/kj/%E6%8B%93%E5%B1%95%E9%98%85%E8%AF%BB/2-1%E7%BB%8F%E5%85%B8%E7%89%A9%E7%90%86%E5%AD%A6%E6%99%B4%E6%9C%97%E5%A4%A9%E7%A9%BA%E4%B8%AD%E7%9A%84%E2%80%9C%E4%B8%A4%E6%9C%B5%E4%B9%8C%E4%BA%91%E2%80%9D.htm" target="_blank" rel="external">两朵乌云</a>」相互干扰，使得它本身成为科幻题材中最有趣的话题之一。因此，Mr. Dalliard 的这张图区别于他另外两张信息图，信息量很大。</p>
+<p>有意思的地方我都标了标注，下面一条一条来看。</p>
+<p><strong>注意：后文会涉及比这张图还厉害的剧透，请慎读。</strong></p>
+<a id="more"></a>   
+
+<hr>
+<h3 id="[0]_多重宇宙">[0] 多重宇宙</h3>
+<blockquote>
+<p>英文原文：multiverse  </p>
+</blockquote>
+<p>常看科幻题材作品的观众对这个概念一定不陌生。关于多重宇宙或者说平行宇宙的解释有很多种，但一般牵涉到科幻故事里的多数指的是这么一种概念「对过去的改变会创造出一个和现在平行的新宇宙，两个宇宙同时存在」来解释「<a href="http://zh.wikipedia.org/wiki/%E7%A5%96%E7%88%B6%E6%82%96%E8%AB%96" target="_blank" rel="external">祖父悖论</a>」。</p>
+<blockquote>
+<p>假设你回到过去，在自己父亲出生前把自己的祖父母杀死；因为你祖父母死了，就不会有你的父亲；没有了你的父亲，你就不会出生；你没出生，就没有人会把你祖父母杀死；但若是没有人把你的祖父母杀死，你是否会存在并回到过去且把你的祖父母杀死？ 矛盾出现了。</p>
+</blockquote>
+<p>用多重宇宙就很好解决，你回到过去就创造了新的平行宇宙，你原来那个宇宙中的祖父母就都还活着。</p>
+<p>其实这种说法应该更接近多世界诠释（many-worlds interpretation），简称 MWI。这个是休·埃弗雷特三世（Hugh Everett III）最早提出来的。是对量子论的一种解释假说。  </p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/05/00_pic01.jpg" alt=""><br>（出处：<a href="http://www.scientificamerican.com/article/hugh-everett-biography/" target="_blank" rel="external">scientificamerican.com</a>）</p>
+<p>关于这一部分，有兴趣的可阅读曹天元《<a href="http://book.douban.com/subject/1467022/" target="_blank" rel="external">上帝掷骰子吗？</a>》一书中关于 MWI 的相关部分。</p>
+<h3 id="[1]_离线宇宙">[1] 离线宇宙</h3>
+<blockquote>
+<p>英文原文：tangent universe</p>
+</blockquote>
+<p>这其实不是什么科学理论，而是电影《<a href="http://movie.douban.com/subject/1306662/photos?type=R" target="_blank" rel="external">死亡幻觉</a>》（<em>Donnie Darko</em>）中的概念。所以这个分支后面也只有这一部电影。</p>
+<p>离线宇宙的概念出自电影中虚构的《时空旅行奥义书》（<em>The Philosophy of Time Travel</em>）一书。离线宇宙就是这本书的第一章。</p>
+<blockquote>
+<p>原发宇宙(Primary Universe)充满危机，人人难逃死亡。<br>第四维时间相对稳定，但并非无法穿透。使其织体崩坏的意外很少发生。<br>而一旦离线宇宙出现，其本身将极不稳定，只能维持几星期。<br>如果离线宇宙坍塌，其在原发宇宙内的遗骸——黑洞将摧毁一切存在。   </p>
+</blockquote>
+<p>（出处：<a href="http://www.baike.com/wiki/%E6%97%B6%E7%A9%BA%E6%97%85%E8%A1%8C%E5%A5%A5%E4%B9%89%E4%B9%A6" target="_blank" rel="external">baike.com</a>）</p>
+<h3 id="[2]_诺维科夫自洽性原则">[2] 诺维科夫自洽性原则</h3>
+<blockquote>
+<p>英文原文：Novikov self-consistency principle</p>
+</blockquote>
+<p>诺维柯夫自洽性原则是由俄罗斯理论物理学家诺维科夫（Igor Dmitriyevich Novikov）在 1980 年代提出的有关时间悖论的规则。此原则指出，人可以回到过去，但是不能因此改变历史的进程。其基本含义为，我们的世界是已经被改变过的最终结局。</p>
+<p>（出处：<a href="http://zh.wikipedia.org/wiki/%E8%AF%BA%E7%BB%B4%E7%A7%91%E5%A4%AB%E8%87%AA%E6%B4%BD%E6%80%A7%E5%8E%9F%E5%88%99" target="_blank" rel="external">zh.wikipedia.org</a>）</p>
+<h3 id="[3]_世界线">[3] 世界线</h3>
+<blockquote>
+<p>英文原文：world line</p>
+</blockquote>
+<p>在这个选项后面也只有一部电影——2004 年的《雷管》（<em>Primer</em>）。</p>
+<p>先说说什么叫<a href="http://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E7%BA%BF" target="_blank" rel="external">世界线</a>。</p>
+<blockquote>
+<p>世界线（World line）是美国物理学家阿尔伯特·爱因斯坦于其 1905 年论文《论动体的电动力学》中提及的概念。他将时间和空间合称为四维时空，粒子在四维时空中的运动轨迹即为世界线。在物理学上，世界线是物体穿越四维时空唯一的路径，因加入时间维度而有别于力学上的「轨道」或「路径」。</p>
+</blockquote>
+<p>用一张图来解释的话，世界线就是这样的：<br><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/05/03_pic01.jpg" alt=""><br>（出处：《超越时空》,作者：[美] 加来道雄）</p>
+<p>由世界线引出了几个关于时空旅行的问题。</p>
+<ol>
+<li>相对论中，世界线不能被切断。因此历史不会被改变。</li>
+<li>如果回到过去，旅行者只是会过去重演一遍，世界线就会形成一个闭合的环（在广义相对论中会被称作「闭合类时曲线」，closed timelike curve，简称 CTC）物理学界，包含了量子论在内，对 CTC 是否能形成还在讨论。</li>
+</ol>
+<p>所以其实世界线为基础的时空旅行是符合诺维科夫自洽性原则的。</p>
+<p>再来看看《雷管》这部电影里的时间旅行是怎么回事，下图来自 wikipedia 的<a href="http://en.wikipedia.org/wiki/Primer_(film" target="_blank" rel="external">相关词条</a>，解释了这部电影里的时间机的工作原理：<br><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/05/03_pic02.jpg" alt="">  </p>
+<p>所以说这部电影里虽然符合了世界线的概念（尤其是 CTC），却没有符合其背后的物理界限，历史在这里还是被改变了。</p>
+<p>与这个选项的 No 分支里的电影作比较，就可以知道为什么这部电影是按照世界线理论来的了。以 2006 年的《时空线索》（<em>Deja Vu</em>）一片为例：男主穿梭回过去后由于改变了历史进程，过去世界中的男主角便不会再发生未来会回到过去的这件事。所以并没有形成环，而这片的穿越理论则是多重宇宙（此片中原宇宙是否存在不知道）和蛀洞。</p>
+<p>有关这方面的内容，可以去看美籍日裔的科学家加来道雄《超越时空》一书关于「时间旅行」的篇章，对世界线有更详细的介绍。</p>
+<h3 id="[4]_需要_1-21_万千瓦以达到时速_88_英里">[4] 需要 1.21 万千瓦以达到时速 88 英里</h3>
+<blockquote>
+<p>英文原文：1.21 jigowatts at 88 miles per hour</p>
+</blockquote>
+<p>这也不是科学原理，而是这个分支后的三个电影——伟大的科幻喜剧《回到未来》三部曲（<em>Back to the Future</em>）——中的穿越条件。</p>
+<p>这部电影里的穿越装备是一台改造了过的德罗宁汽车公司（Delorean Motor Company）DMC-12，到能量达到 1.21 万千瓦的时候，这量车就可以加速到时速 88 英里（约 142.6 公里）。这辆车在达到这个速度以后就可以穿越时空。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/05/04_pic01.jpg" alt=""><br>（出处：<a href="http://i0.sinaimg.cn/qc/photo_auto/photo/05/86/11640586/11640586_640.jpg" target="_blank" rel="external">新浪汽车</a>）</p>
+<p>该公司早于电影上映（1985 年）之前就倒闭了（1982 年），但因为这辆酷炫的 DMC-12 拥有当时与众不同的鸥翼车门和不锈钢车体，还是被选为了时光机。</p>
+<p>最后闲话一句，1.21 万千瓦并不是必备条件，只要让那车达到时速 88 英里，用火车推也行！</p>
+<h3 id="[5]_相对论效应">[5] 相对论效应</h3>
+<blockquote>
+<p>英文原文：relativistic effects</p>
+</blockquote>
+<p>这里其实也只牵涉到一部电影 1968年的《人猿星球》（<em>Planet of the Apes</em>）。所以说相对论效应有点宽泛了，这里只牵涉到<a href="http://zh.wikipedia.org/wiki/%E7%8B%AD%E4%B9%89%E7%9B%B8%E5%AF%B9%E8%AE%BA" target="_blank" rel="external">狭义相对论</a>中<a href="http://zh.wikipedia.org/wiki/%E6%99%82%E9%96%93%E8%86%A8%E8%84%B9" target="_blank" rel="external">时间会膨胀</a>的特点（也称爱因斯坦延缓）。</p>
+<p>先简单解释下什么叫时间会膨胀吧。首先你要知道在狭义相对论中，光速对于观测者是个常数 c，并且在任何惯性参照系中都不变。</p>
+<p>于是，如果我们有一个自动上下光子沙漏，在任何惯性体系下它都流完一次都是 1 分钟。如果你和你的哥哥都有一个这样的光子沙漏，你哥哥在你面前开一艘速度很快的时间飞船。相对于你来说，他手中的光子沙漏在 1 分钟里走了更多的距离。就如下图所示：</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/05/05_pic00.jpg" alt=""><br>（出处：《<a href="http://book.douban.com/subject/7647487/" target="_blank" rel="external">时间的形状</a>》,作者：汪洁）</p>
+<p>因此问题就来了，对你哥哥来说，他的沙漏还是在一分钟内上下了一样的距离，但光速对于任何来说又都是不变的。所以只有一个解释，就是相对于你来说，你哥哥的时间变慢了。也许绕地球几圈回来以后，你就变成哥哥啦！</p>
+<p>《人猿星球》（包括同一世界观中的后几部）就借用了这个科学原理，主角一行人乘坐的接近光速的飞船经行旅行了 16 个月，因为相对于地球较慢的速度，他们高速行驶使得时间相对于地球变慢了很多，此时的地球已经是 3978 年了。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/05/05_pic01.jpg" alt=""><br><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/02/05/05_pic02.jpg" alt="">  </p>
+<p>不过有意思的一点在于，这个理论在《人猿星球》系列里被冠名到了虚构人物 Otto Hasslein 博士上了，被称作 Hasslein Time Curve。</p>
+<p>关于这一部分，有兴趣的可以读一下汪洁《时间的形状》一书。</p>
+<hr>
+<p>下面只是几个小问题了：</p>
+<p>[6] 《火星生活》（<em>Life on Mars</em>）最早是个 2006 年的英剧，后来被翻拍成美剧。不过这两部剧集似乎在设定上有差异，原作者并没标注是哪一部，也有可能是在这张图里两部没有差异。</p>
+<p>[7] 《时间机器》（<em>Time Machine</em>）指的是 2002 年翻拍的一版，这里未做标注的原因是，最早拍摄于 1960 年的版本豆瓣默认翻译为《时空大挪移》。同样，翻译里的《人猿星球》指的是 1968 年的版本，而怪才导演蒂姆·伯顿于 2001 年翻拍的同名电影的默认译名为《决战猩球》。但《人猿星球》系列的最后一部也被翻译成了《决战猩球》（<em>Battle for the Planet of the Apes</em>)，所以我标注了年份。</p>
+<p>[8] 《鬼玩人3》实际原名应该是 <em>Army of Darkness</em>（《魔界英豪》或《魔诫英豪》）。奈何这几部片子译名很混乱。前两部是 <em>Evil Dead I &amp; II</em>，这三部角色是延续的，但是第三部改了名字。也有把前两部称为《尸变》而第三部是《鬼玩人》的人。这里还是采用了豆瓣译名。只有这一部涉及到了穿越。</p>
+<hr>
+<p><a rel="external" href="http://creativecommons.org/licenses/by-sa/3.0/cn/" target="_blank"><img alt="知识共享许可协议" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/cn/88x31.png"></a><br>本作品采用<a rel="external" href="http://creativecommons.org/licenses/by-sa/3.0/cn/" target="_blank">知识共享署名-相同方式共享 3.0 中国大陆许可协议</a>进行许可。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://ww3.sinaimg.cn/large/40bcd265gw1ed8rduu6kuj20m80vfdl2.jpg" alt=""><br>这次可不只是翻译这么简单哟。  </p>
+<p>注：非授权翻译自 <a href="http://mr-dalliard.tumblr.com/" target="_blank" rel="external">mr-dalliard.tumblr.com</a>，中文译名均来自<a href="http://movie.douban.com/" target="_blank" rel="external">豆瓣</a>默认翻译。版权归原作者所有。  </p>
+<p>其实这张图已经有过<a href="http://http://www.zhihu.com/question/20509136/answer/17482775" target="_blank" rel="external">两个版本</a>的中文翻译了，我也是因为这张图发现了 Mr. Dalliard 的<a href="http://mr-dalliard.tumblr.com/" target="_blank" rel="external">博客</a>，才找到了其他的信息图。</p>
+<p>但这张是最有意思的，也可能是因为「时光旅行」这个内容的背后有来自 20 世纪物理学上的「<a href="http://http://www.crup.com.cn/UploadFiles/bookavr/D1093/kj/%E6%8B%93%E5%B1%95%E9%98%85%E8%AF%BB/2-1%E7%BB%8F%E5%85%B8%E7%89%A9%E7%90%86%E5%AD%A6%E6%99%B4%E6%9C%97%E5%A4%A9%E7%A9%BA%E4%B8%AD%E7%9A%84%E2%80%9C%E4%B8%A4%E6%9C%B5%E4%B9%8C%E4%BA%91%E2%80%9D.htm" target="_blank" rel="external">两朵乌云</a>」相互干扰，使得它本身成为科幻题材中最有趣的话题之一。因此，Mr. Dalliard 的这张图区别于他另外两张信息图，信息量很大。</p>
+<p>有意思的地方我都标了标注，下面一条一条来看。</p>
+<p><strong>注意：后文会涉及比这张图还厉害的剧透，请慎读。</strong></p>
+]]>
+    
+    </summary>
+    
+      <category term="翻译" scheme="http://erelief.me/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="信息图" scheme="http://erelief.me/tags/%E4%BF%A1%E6%81%AF%E5%9B%BE/"/>
+    
+      <category term="Movie" scheme="http://erelief.me/categories/Movie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[电影中的虚拟实境]]></title>
+    <link href="http://erelief.me/2014/02/03/simulated_reality_in_movies/"/>
+    <id>http://erelief.me/2014/02/03/simulated_reality_in_movies/</id>
+    <published>2014-02-03T06:50:53.000Z</published>
+    <updated>2015-01-11T07:04:23.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="电影名翻译版：">电影名翻译版：</h3>
+<p><img src="http://ww1.sinaimg.cn/large/40bcd265gw1ed8ris3ewyj20m20v77dv.jpg" alt="">  </p>
+<p>注：非授权翻译自 <a href="http://mr-dalliard.tumblr.com/" target="_blank" rel="external">mr-dalliard.tumblr.com</a>，中文译名均来自<a href="http://movie.douban.com/" target="_blank" rel="external">豆瓣</a>默认翻译。版权归原作者所有。  </p>
+<a id="more"></a>  
+
+
+<h3 id="电影名未翻译版本：">电影名未翻译版本：</h3>
+<p><img src="http://ww3.sinaimg.cn/large/40bcd265gw1ed8rjnfh1xj20m20v7n6s.jpg" alt="">  </p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="电影名翻译版：">电影名翻译版：</h3>
+<p><img src="http://ww1.sinaimg.cn/large/40bcd265gw1ed8ris3ewyj20m20v77dv.jpg" alt="">  </p>
+<p>注：非授权翻译自 <a href="http://mr-dalliard.tumblr.com/" target="_blank" rel="external">mr-dalliard.tumblr.com</a>，中文译名均来自<a href="http://movie.douban.com/" target="_blank" rel="external">豆瓣</a>默认翻译。版权归原作者所有。  </p>
+]]>
+    
+    </summary>
+    
+      <category term="翻译" scheme="http://erelief.me/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="信息图" scheme="http://erelief.me/tags/%E4%BF%A1%E6%81%AF%E5%9B%BE/"/>
+    
+      <category term="Movie" scheme="http://erelief.me/categories/Movie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[电影中的世界末日]]></title>
+    <link href="http://erelief.me/2014/02/03/end_of_the_world_in_movies/"/>
+    <id>http://erelief.me/2014/02/03/end_of_the_world_in_movies/</id>
+    <published>2014-02-03T06:50:21.000Z</published>
+    <updated>2015-01-11T07:01:55.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://ww4.sinaimg.cn/large/40bcd265gw1ed6762acc3j20zk0p4n7i.jpg" alt="">  </p>
+<p>注：非授权翻译自 <a href="http://mr-dalliard.tumblr.com/" target="_blank" rel="external">mr-dalliard.tumblr.com</a>，中文译名均来自<a href="http://movie.douban.com/" target="_blank" rel="external">豆瓣</a>默认翻译。版权归原作者所有。  </p>
+<a id="more"></a>  
+
+<p>高清下载：链接: <a href="http://pan.baidu.com/s/1eQxIpc2" target="_blank" rel="external">http://pan.baidu.com/s/1eQxIpc2</a> 密码: a3yh  </p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://ww4.sinaimg.cn/large/40bcd265gw1ed6762acc3j20zk0p4n7i.jpg" alt="">  </p>
+<p>注：非授权翻译自 <a href="http://mr-dalliard.tumblr.com/" target="_blank" rel="external">mr-dalliard.tumblr.com</a>，中文译名均来自<a href="http://movie.douban.com/" target="_blank" rel="external">豆瓣</a>默认翻译。版权归原作者所有。  </p>
+]]>
+    
+    </summary>
+    
+      <category term="翻译" scheme="http://erelief.me/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="信息图" scheme="http://erelief.me/tags/%E4%BF%A1%E6%81%AF%E5%9B%BE/"/>
+    
+      <category term="Movie" scheme="http://erelief.me/categories/Movie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[人们为什么相信健康流言？]]></title>
+    <link href="http://erelief.me/2014/01/15/gossip_of_health/"/>
+    <id>http://erelief.me/2014/01/15/gossip_of_health/</id>
+    <published>2014-01-14T16:17:54.000Z</published>
+    <updated>2015-01-11T07:03:50.000Z</updated>
+    <content type="html"><![CDATA[<p>相信这些流言，是因为这些流言更容易使人相信，而一般人又缺少评判工具罢了。<br><a id="more"></a></p>
+<h2 id="「伪科学」的段子是走么走红的？">「伪科学」的段子是走么走红的？</h2>
+<p><img src="http://ww2.sinaimg.cn/large/40bcd265tw1echsksxwbuj20go096mxo.jpg" alt=""></p>
+<p>前阵子看的一个日剧《花的懒人料理》里有一集<strong>[1]</strong>是讲减肥的，里面总结了「主妇们青睐的减肥法具有的三大要素」：</p>
+<blockquote>
+<p>第一，闻所未闻的新奇减肥法。<br>第二，需要一个不熟但是貌似很有名的人成功的案例。<br>第三，轻松。  </p>
+</blockquote>
+<p>虽然这部剧的这段内容是调侃来着，但我第一次看到时候脑袋里就好像被戳到了什么。</p>
+<p>后来我读了一本十分值得推荐的「科学思维」普及的「科普」书——《对「伪心理学」说不》。其中列了一个<strong>「识别不道德药品推销员指南」[2]</strong>：</p>
+<blockquote>
+<ul>
+<li>他或许会提供一种用于治疗关节炎的“特别的”或“秘密的”处方或设备。</li>
+<li>他会做广告，用的都是“个案史”和“满意患者”的见证。</li>
+<li>他或许会承诺（或者暗示）能够快速或轻松见效。</li>
+<li>他也许会生声称知道关键的成因，并且说能够“清楚”你体内的“毒素”，同时促进你的健康。它或许会说外科手术、X光和医师所开的处方是没有必要的。</li>
+<li>他或许会指责“医学体制”故意阻碍了进步，或者迫害了它……但是他不允许它的方法以已有的或已获得证明的方法来验证。</li>
+</ul>
+</blockquote>
+<p>其中前三点意外的高度重合，后者的后面那几条无非也是将前几条延伸了一下。</p>
+<p>为什么要警惕这些？是因为这些特别有「说服力」。反过来也可以不充分的说明，<strong>符合这些特征的信息更易于传播</strong>。</p>
+<p>分析这重复的三条，可以发现这三条的可以概括为：</p>
+<ol>
+<li>引起兴趣（恐吓、批评主流科学界观点等等）。  </li>
+<li>树立「权威」（「成功案例」或「专家」等等）。  </li>
+<li>低成本可行性方案（省时省力省钱，咳咳，大多数是省时省力）。  </li>
+</ol>
+<p>而且这三点还是递进关系。不信你想想最近看到的这类文章是不是这样的：</p>
+<blockquote>
+<p>「不要再吃 XXX 了（恐吓）， XXX 医院老院长20年独家配方（「权威」），轻轻松松抵御癌症（低成本可行方案）」 </p>
+</blockquote>
+<p>是吧？</p>
+<p>不过相较其他两个因素，其中我觉得最重要的还是低成本，简单的执行力是这类消息能传播并使人相信的关键因素。</p>
+<h2 id="低成本，更重要">低成本，更重要</h2>
+<p>20世纪60年代社会心理学家霍华德·莱文瑟做的恐惧实验。他们在耶鲁大学做了一个实验，对在校大学生发放一份关于破伤风的危害性的宣传手册，并告诉学生学校卫生中心正在免费打与方针。宣传册有两个版本，轻微描述的「低风险组」和配了大量图片和描述的「高风险组」。结果两组去打预防针的比例相同而且仅为 3%。后来他们做了个小改变，在手册里附上了去学校卫生中心室的地图。而收到后者的同学，去打预防针的比例相同都提高到了 28%。两次实验的最大区别就在与后者提供了解决方案<strong>[3]</strong>。</p>
+<p>说到健康流言，关于低成本有两类：有一类是吃些3块钱一斤的东西就能抵御各种人类生存难题的。天天喝萝卜汤能抵御 PM2.5，比起带 N95 口罩，空气净化器<strong>[4]</strong>那可便宜多了。吃绿豆能抗癌，而不是戒酒，减肥<strong>[5]</strong>这种麻烦上天的东西。这些问题也可以看出「我害怕」的生存策略不能完整解释流言为什么容易使人相信，因为这两种方案解决的是同一个「我害怕」的问题，而结果是缺乏判断能力的人会去选择更简便的方法。</p>
+<p>还有一类是不要去做 XXX ，不吃 XXX （很多时候不吃 XXX 都是废话，比如蜂蜜不要和大蒜一起吃之类的）。不去做，是执行成本最低的一件事。</p>
+<p>作为信息传播的一种手段，其实这「三连击」的技巧是相当高超，而且广泛使用的。有没有发现 360 也是这么玩的么？</p>
+<h2 id="科普是很难的">科普是很难的</h2>
+<p>反过来，他们随便编一个段子，而科学工作者要去证伪它，成本却要高得多，市面上类似《健康流言终结者》这类书我差不多看了个遍，真心感到他们吃力。流言一句话，他们就要写一篇文章，还未必说得清，为了保持科学的公正，还是时不时的肯定这些流言的一部分。</p>
+<p>这也就说明了，普通人的接受成本要高很多，你不能指望每个人都知道什么叫证伪，公共知识，同行检验等等这些科学思维。而且越是科学客观的结论，多用的是「尚不能证明 XXX 和 XXX 之间存在关系」这一类措辞，反而让缺乏统计思维的平常人觉得模棱两可，认为其没有否认这些流言在「未来被证明是正确的可能性」。很多人看完的反映，恐怕还会问：「那你说了这么多，那到底 XXX 是不是对的呢？」</p>
+<p>另外，特别到健康，科学的方法大多需要养成长期坚持的习惯或改变已有长期不良的习惯。由于成本高，即便是知道其对的人，很多因此而在反方向给自己找理由来说明「我知道 XXX 不对，但你看 XXX 也有好处不是么？凡事不要太极端嘛」，这也造成了流言滋生的土壤。</p>
+<p>最糟糕的是，这会久而久之形成一些恶性循环，让公众产生对科学的误解或不好的刻板印象。科学工作者想要纠正这才是最难的了。</p>
+<p>在这里建议读一下《科学离我们有多远？》<strong>[6]</strong>这本书。从教育、政治、媒体、宗教、流行文化和科普工作者本身缺陷很多角度讨论了「为什么科普是很难的。」虽然不少问题是美国本土特色，但国内也有对应的难点，挺有启发的。</p>
+<h2 id="教育怎么了？">教育怎么了？</h2>
+<p>至于评判工具的缺失，教育还是有一定责任的。</p>
+<p>不知道国外现在情况怎么样（从我读的一些书来看可能情况也不好），国内的基本教育中虽然加入了自然科学的科目，却从来没有教育「科学方法」本身，一旦进入大学以后学习的不是相关专业，那基本就丧失了对此类问题的判断能力，从而一再相信那些更容易相信的东西。</p>
+<p>说得大一点，这就是一个 know how 和 know why 的区别。</p>
+<h2 id="后记">后记</h2>
+<p>最后贴一段科学松鼠会云无心的话<strong>[7]</strong>，来作为回答我对这种现象的看法：</p>
+<blockquote>
+<p>不是说一定要用现代科学的实验证明才可靠，而是说作出一个结论需不需要或者需要什么样的证据。没有科学支持的东西不一定不存在，而是我们不知道它存不存在。</p>
+<p>就像我山上拔一把草，告诉你吃了可以百病不生，你可没有证据说我说得不对。现代科学的思维是：如果我们没有检测过，就说「没有检测过，不知道是否存在」；如果检测过了没发现，就说「做了什么什么检测，没发现」。这两种情况从逻辑上来说都不能否认那些传说的存在。而很多传统的东西，是把这种「没有否定存在的可能」当成「存在」来看待。<strong>如果消费者明白这个东西没有可靠的证据支持，愿意为那种「没准存在」的「功能」买单，当然也我也无可厚非。但是如果一些人利用大家的这种心理，鼓吹那些东西「确有神效」，就应该反对了。</strong></p>
+</blockquote>
+<hr>
+<h3 id="注释：">注释：</h3>
+<p>[1]《花的懒人料理》（花のズボラ飯）。第三话。<br>[2]《对「伪心理学」说不》（<em>How to Think Straight about Psychology</em>）第八版中文版。P.79 第四章.见证和个案研究数据。这一章也讲了为什么心理学中个案研究而得出的理论的参考价值很低。<br>[3]出自《引爆点》（<em>Tipping Point</em>）中信出版社。P.84 附着力法则。所能查到的信息中对实验参与的人数都没明确指出，大多指引用了结论，加之实验的时间比较早，不知道有没有被其他研究证伪，如有错误烦请专业人士告之。相关研究为：Effects of fear and specificity of recommendation upon attitudes and behavior。<br>相关论文下载（需付费）：<a href="http://psycnet.apa.org/journals/psp/2/1/20/" target="_blank" rel="external">http://psycnet.apa.org/journals/psp/2/1/20/</a><br>[4]关于空气净化器的原理和 N95 口罩的问题可以参考：<a href="http://www.guokr.com/article/436748/" target="_blank" rel="external">http://www.guokr.com/article/436748/</a><br>[5]在世界卫生组织和联合国粮农组织联合专家组发布的《膳食、营养与慢性病防治》（Diet, Nutrition and the Prevention of Chronic Diseases）中，明确指出有充分致癌证据的膳食因素分别是肥胖、酗酒、黄曲霉素和中式咸鱼。相关报告：<a href="http://www.who.int/dietphysicalactivity/publications/trs916/en/" target="_blank" rel="external">http://www.who.int/dietphysicalactivity/publications/trs916/en/</a><br>[6]《科学离我们有多远？》（<em>Unscientific America</em>）看看原书名字很有意思吧……最有意思的还是这本书还赞扬了我国政府为了经济发展而主导更重视科学。<br>[7]《吃的真相2》P.4 前言。  </p>
+<p>本文地址：<a href="http://erelief.github.io/2014/01/15/gossip_of_health/" target="_blank" rel="external">http://erelief.github.io/2014/01/15/gossip_of_health/</a><br>知乎中的相关讨论：<a href="http://www.zhihu.com/question/21859482/answer/19859921" target="_blank" rel="external">为什么有的人无法接受科学观念，对健康流言深信不疑？</a></p>
+<hr>
+<p><a rel="external" href="http://creativecommons.org/licenses/by-sa/3.0/cn/" target="_blank"><img alt="知识共享许可协议" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/cn/88x31.png"></a><br>本作品采用<a rel="external" href="http://creativecommons.org/licenses/by-sa/3.0/cn/" target="_blank">知识共享署名-相同方式共享 3.0 中国大陆许可协议</a>进行许可。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>相信这些流言，是因为这些流言更容易使人相信，而一般人又缺少评判工具罢了。<br>]]>
+    
+    </summary>
+    
+      <category term="健康" scheme="http://erelief.me/tags/%E5%81%A5%E5%BA%B7/"/>
+    
+      <category term="Science" scheme="http://erelief.me/categories/Science/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[什么是 UPA？]]></title>
+    <link href="http://erelief.me/2014/01/11/upa/"/>
+    <id>http://erelief.me/2014/01/11/upa/</id>
+    <published>2014-01-11T12:45:13.000Z</published>
+    <updated>2015-01-14T17:05:56.000Z</updated>
+    <content type="html"><![CDATA[<p>UPA(United Productions of America，美国联合制片公司，简称 UPA)是一家历史悠久但同时也并不长寿的动画工作室。虽然「生于危难」，但它的出现产生了一种有别于当时迪士尼和华纳兄弟的动画风格，并对美国乃至全世界的动画产生了深远的影响。</p>
+<p><a id="more"></a></p>
+<h2 id="历史">历史</h2>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/01/12001_UPA.gif" alt=""><br><a href="http://en.wikipedia.org/wiki/UPA_(animation_studio" target="_blank" rel="external">en.wikipedia.org/…</a></p>
+<p>1941年，受第二次世界大战影响，迪士尼陷入工会罢工分潮。这次导致一批很杰出的动画家，包括约翰·哈布利（John Hubley）在内的人离开迪斯尼，有些去了其他电影公司，有些自己起来组织动画工作室。</p>
+<p>其中的一些人于1943年成立 UPA。他们的理想是改革动画既定的风貌，一方面成立自己作主的动画公司，同时能够在艺术上突破迪斯尼风格，闯出一条新的动画创作的路来。</p>
+<p>他们合作的第一部片是《选战热潮》(<em>Hell-bent for Election</em>)，是为美国二战时期的总统富兰克林·罗斯福(Frankiln Roosevelt)创作的竞选影片，这部片子是由美国工会出钱，查克·琼斯（Chunk Jones）导演。</p>
+<p>此后，UPA 得到了哥伦比亚影业（Columbia Pictures）的订单并开始为其生产动画。最出名的系列当属 <a href="http://en.wikipedia.org/wiki/Mr._Magoo" target="_blank" rel="external"><em>Mr.Magoo</em></a> 系列和 <a href="http://en.wikipedia.org/wiki/Gerald_McBoing_Boing" target="_blank" rel="external"><em>Gerald McBoing-Boing</em></a> 系列。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/01/12002_Magoo.jpg" alt=""><br><a href="http://blog.sina.com.cn/s/blog_4bdabb49010083ee.html" target="_blank" rel="external">blog.sina.com.cn/…</a></p>
+<p>第二次世界大战结束之后，美国国内出现了右翼、反共的浪潮，联邦调查局广泛在知识分子中进行调查，这也波及到好莱坞，而 UPA 则是一个调查的重点，因为这些主要的漫画家都曾经在战时组织迪斯尼公司大罢工，因此遭到国会反共的「非美调查委员会」的全面审查，很多人还遭到联邦调查局的盘问，不过最后没有一个 UPA 的人被起诉。但也因为这个事件严重影响了 UPA，最终于1952年终止为哥伦比亚影业供片，开始转向新兴的电视市场。</p>
+<p>1955年开始 UPA 开始和 CBS 电视台合作。并制作了 <em>Mr.Margoo</em> 在电视上的制作，但因为这段时间过度追求成本节省，而制造了很多过于廉价的动画。最后于1964年关闭动画制作部门。此后主要的业绩在于和日本东宝株式会社合作引进怪兽片等。</p>
+<h2 id="风格特点">风格特点</h2>
+<p>国内动画学生人手一册的《动画师生存手册》里其实提到过 UPA，虽然威廉姆斯老爷在这段里是带半批评的口吻说的 UPA，但是概括得绝了，中译本是这么写的「人们认为 UPA 比起迪士尼图像更复杂，他们的动画更有『节制』，而不像迪士尼那么现实主义。」 UPA 比迪士尼图像更复杂是有一定时代局限性的（技术和成本限制，丰富的画面和丰富的动作只能取其一），日后就不存在这个问题。但还是有两点：</p>
+<ul>
+<li>动作上的「节制」。</li>
+<li>动作和设计上的非现实主义。</li>
+</ul>
+<h3 id="设计">设计</h3>
+<p>最来看一张典型 UPA 风格的图片（虽然是来自一群在好莱坞的德国人的工作室 Toonder Studio’s的，但是我觉得更具代表性）。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/01/12003_Toonder.jpg" alt=""><br><a href="http://www.cartoonbrew.com/cartoon-modern/when-amsterdam-went-UPA-dutch-modern-cartoons-in-the-1950s-90904.html/attachment/dutchcartoonmodern-c" target="_blank" rel="external">cartoonbrew.com/…</a></p>
+<p>想要追根溯源的话又要说到毕加索的牛了，这里暂且不提，简单归纳一下 UPA 的设计风格：</p>
+<ul>
+<li>高度概括几何化，要用现在时髦的话来讲就是「扁平化」。</li>
+<li>「通常」注重轮廓线的粗细变化。</li>
+</ul>
+<p>所以 UPA 是一种注重装饰效果的风格。区别就像衬线字体和非衬线字体一样。但说起来，上面这张图和 <em>Mr.Magoo</em> 的区别也不少，而且都已经不是来自 UPA 的了，可以说是 UPA 作为 Style 的早期发展吧。</p>
+<h3 id="动作">动作</h3>
+<p> UPA 的动画也就是有限动画（Limited Animation）在 <a href="http://en.wikipedia.org/wiki/Limited_animation" target="_blank" rel="external">Wiki</a> 上的定义比较复杂，我提几个个人认为在动画技术上比较重要的：</p>
+<ul>
+<li>采用一拍二限帧动画。</li>
+<li>各部件分层动画。</li>
+<li>采用大量静止的、或只有小部分活动的画面。</li>
+<li>使用循环动画和素材反复使用。</li>
+<li>简化动作，甚至带欺骗性的减少动作。</li>
+<li>减少有透视的场景和有透视的动作。</li>
+</ul>
+<p>有很多人觉得有限动画=限帧动画，这个是不全面的，限帧动画只是有限动画的一部分。<br>其中简化动作的方式有很多种，我觉得和作为风格来讲的 Cut-out（剪纸）动画有技术上的共同性。</p>
+<h2 id="风格的影响和发展">风格的影响和发展</h2>
+<p>虽然 UPA 作为工作室存在的时间并不长，组织结构也比较松散，但其影响力跟迪士尼、华纳兄弟几乎不相上下。</p>
+<p>除了上面所说的 Toonder，50年代应该有不少模仿 UPA 风格的工作室在做动画。原因很简单，二战时期的经济衰退，导致迪士尼高成本的全动画方式不吃香。另一方面是电视机的兴起，那时候都是黑白电视机，由于只有灰度变化，粗细线条的搭配反而让 UPA 风格更有表现力。对当时的实验动画或者先锋动画也有一定的影响，比如<a href="http://animetaste.net/22726" target="_blank" rel="external">萨格勒布学派</a>（Zagreb school of animatio）。</p>
+<p>UPA 倒后接手 UPA 风格的是 HB（<a href="http://en.wikipedia.org/wiki/Hanna-Barbera" target="_blank" rel="external">Hanna-Barbera</a>，汉纳-巴巴拉），其中比较出名的有《摩登原始人》，确切的说应该是接手了有限动画。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/01/12004_Modern.jpg" alt=""><br><a href="http://41237345.blog.163.com/blog/static/127706627201111055428238/" target="_blank" rel="external">41237345.blog.163…</a></p>
+<p>其实不难看出这时候已经不那么 UPA 了，由其是在设计上，倒是 UPA 的有限动画还保留下来。</p>
+<p>HB  之后接手 UPA 风格的是 <a href="http://en.wikipedia.org/wiki/Cartoon_Network" target="_blank" rel="external">Cartoon Network</a>, 虽说 CN 收购了 HB，但其实真正属于 CN 自己的 UPA 风格是来自于两个人。美国动画人 Genndy Tartakovsky（祖籍前苏联，7岁时随父母移民）和 Graig McCrancken。这几个人都是在 CalArts （California Institute of the Arts，加州视觉艺术学院）认识的，而且他们也都是在学生时期开始就喜欢 UPA 风格。所以 <em>Dexter‘s Labraratory</em>（《德克斯特实验室》，Tartakovsky 主创）、<em>Power-Puff Girls</em>（《<a href="http://baike.baidu.com/view/82915.htm?wtp=tt" target="_blank" rel="external">飞天小女警</a>》，下简称 <em>PPG</em>，McCrancken 主创）的接连成功就一直让 UPA 风格霸占了 CN 最主要的节目。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/01/12005_DextorPPG.jpg" alt=""><br><a href="http://41237345.blog.163.com/blog/static/127706627201111055428238/" target="_blank" rel="external">41237345.blog.163…</a></p>
+<p>可以看到，CN 这个时期的 UPA 风格比起  HB  时期的 UPA 恢复了很多，尤其是造型恢复了几何化。这里要特别说的一下是，个人认为从这个时期开始 UPA 脱离了为省钱而被迫使用的技术转为了对风格化的追求而使用的技术。</p>
+<p>再接下来需要说的还是 Tartakovsky，是另外一个国内观众不太熟悉的动画 <a href="http://en.wikipedia.org/wiki/Samurai_Jack" target="_blank" rel="external"><em>Samurai Jack</em></a>（目前国内有字幕组在做翻译）。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/01/12006_SJ.jpg" alt=""><br><a href="http://collider.com/wp-content/uploads/samurai-jack-vs-aku.jpg" target="_blank" rel="external">collider.com/…</a></p>
+<p>根据 Tartakovsky 自己说，因为《德克斯特实验室》和<em>PPG</em>都有他的参与，他画黑线都已经画到快吐了。所以他自己也在寻求风格上的突破——做了个没有线的动画。</p>
+<p>对于 <em>Samurai Jack</em> 只能说 UPA 是影响源之一，因为这部动画看过就知道，他是经常换风土人情的，所以类似浮世绘、Frank Miller 的漫画，日本动画，都对他产生了影响，这种影响说是 UPA 的变化并不太妥当，只能说是 Tartakovsky 自己的风格。即便只放了一张图也能看到，SJ 中虽然还有一定 UPA 的影子，但是离抽象和有限动画越走越远。像 Tartakobsky 目前最后的TV作品《<a href="http://zhuanlan.zhihu.com/animukokuseki/19603109" target="_blank" rel="external">合神泰坦</a>》这点就更明显了。</p>
+<p>花开两头各表一枝，我个人倒是觉得 McCrancken 那边现在在做的动画倒更像是 UPA 的动画（从这点也可以看出两者在动画题材取向性上的不同），国内也有字幕组在做翻译（亏的是迪士尼频道的动画，不然就没戏了）——《星际漫步》（<a href="http://en.wikipedia.org/wiki/Wander_Over_Yonder" target="_blank" rel="external"><em>Wander Over Yonder</em></a>）。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/01/12007_WOY.jpg" alt=""><br><a href="http://family-room.ew.com/2013/07/23/jack-mcbrayer-wander-over-yonder/" target="_blank" rel="external">family-room.ew.com…</a></p>
+<p>虽然光看这张图跟现在的过去的 UPA 差距还是不小，比如造型比起 UPA 更加圆滑，光从 pose 来看也知道整个动画离有限动画也很远。但这部动画里还留着大量 UPA 式的动作表演方法，比如循环动画，pose 保持不动的情况下做平移动画等等。虽然两个主角不算明显，但大 BOSS 和里面杂兵的设计概括度还是不错的。</p>
+<p>做 <em>My Little Pony: Friendship is Magic</em>（《<a href="http://zh.wikipedia.org/zh-CN/%E5%BD%A9%E8%99%B9%E5%B0%8F%E9%A6%AC%EF%BC%9A%E5%8F%8B%E6%83%85%E5%B0%B1%E6%98%AF%E9%AD%94%E6%B3%95" target="_blank" rel="external">彩虹小马：友情就是魔法</a>》，简称 FiM，这里有<a href="http://www.zhihu.com/question/21148124/answer/17341672" target="_blank" rel="external">详细的介绍</a>）的 Lauren Faust 也参与了 <em>WOY</em> 动画的创作，<a href="http://tvtropes.org/pmwiki/pmwiki.php/Creator/ColumbiaCartoons?from=Main. UPA" target="_blank" rel="external">tvtropes</a> 上将 FiM 也归类为 UPA 影响动画。Lauren Faust也参与了《德》和 <em>PPG</em> 的制作，并且和 McCrancken（2人还是夫妻关系）还合作 UPA 风格的 <a href="http://en.wikipedia.org/wiki/Foster%27s_Home_for_Imaginary_Friends" target="_blank" rel="external"><em>Foster’s Home for Imaginary Friends</em></a>，那显然也要提一下小马了。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/01/12008_FiM.jpg" alt=""><br><a href="http://herogamesworld.com/my-little-pony-games" target="_blank" rel="external">herogamesworld.com/…</a></p>
+<p>背景上的抽象设计、厚线的人物造型还都挺 UPA 的，不过动画风格就相去甚远了。</p>
+<p>除了这几位「CN 系」动画人以外，不少有 HB 血统的动画人也在别的地方做出了一些有 UPA 风格的动画。比如美国动画频道 <a href="http://en.wikipedia.org/wiki/Nickelodeon" target="_blank" rel="external">Nickelodeon</a> 的 <a href="http://en.wikipedia.org/wiki/My_Life_as_a_Teenage_Robot" target="_blank" rel="external"><em>My Life as a Teenage Robot</em></a>（Rob Renzetti）、<a href="http://en.wikipedia.org/wiki/Danny_Phantom" target="_blank" rel="external"><em>Dany Phantom</em></a>（Butch Hartman）。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/01/12008A_MD.jpg" alt="">  </p>
+<p><a href="http://www.byrnerobotics.com/forum/forum_posts.asp?TID=36018" target="_blank" rel="external">byrnerobotics.com/…</a> &amp; <a href="http://www.kidsgamesheroes.com/tags/danny-phantom" target="_blank" rel="external">kidsgamesheroes.com/…</a></p>
+<p>从 Tartakovsky 几个人的成长经历来看美国动画的教育（尤其是美国动画人才摇篮的 CalArts ）应该是不会跳过 UPA 的，所以其实 UPA 有更广泛的影响。但你要说哪一支是 UPA 动画，其实都没这么明显，现在的动画都受迪士尼、华纳兄弟、UPA 和日式动画的影响相互作用，单纯讨论哪个是 UPA 动画已经没太大意义了。</p>
+<p>时间轴再往回倒一点，要说下 Flash 和 UPA 的联系。UPA 的处理方式其实就是一种美式的低成本动画方式，这与低成本动画工具 Flash （后来的 Toon Boom、Moho 等其实就是 Flash 的衍生，这里就放一起说了，下不做区分）简直就是天作之合。</p>
+<p>首先 Flash 是一个矢量绘画工具，无法处理过于随意和复杂的颜色过度，因此在设计上倾向于「更扁平」，而 Flash 动画最大的特点之一就是「原件动画」（用 Flash 画手绘动画是另外一回事了）——其核心就是反复利用、用拉升变形移动替代实际动作过程和较少的新增造型。虽然说很多书和软件都称原件动画的方式是 Cut-out 动画在电脑上的延伸（最著名的应该是《南方公园》了，早期还真的就是剪纸动画）。但 Cut-out 现在被赋予的内涵已经和过去不同，而更像 UPA 式的有限动画在电脑时代的延伸。</p>
+<p>我个人觉得选择 Flash 以后，自己重新发明使用UPA风格的动画也毫不奇怪，因为两者诞生的背景很相似，所以有很多动画很UPA，但并不清楚作者是否受 UPA 的感染（也许他们自己也不知道）。因为Flash最早作为交互设计软件存在，所以做角色动画的也从平面设计、UI、Motion Graphics 上吸收了很多，这些都跟UPA的设计理念相符合。</p>
+<p>上面所提的 <em>FiM</em> 是 Flash 8 做的，<em>WOY</em> 应该是 Toon Boom Harmony。</p>
+<p>另外再举个用 Toon Boom Harmoy 做的 <a href="http://en.wikipedia.org/wiki/Teen_Titans_Go!_(TV_series" target="_blank" rel="external"><em>Teen Titans Go!</em></a>) （《少年泰坦GO！》），不仅因为很新，几个形象起码认知度也高点，而且很明显这动画受UPA影响。其余就不多说了，实在太多。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/01/12009_TTG.jpg" alt=""><br><a href="http://www.nickandmore.com/2013/06/06/new-episode-of-teen-titans-go-gorilla-airs-june-11-on-cartoon-network/" target="_blank" rel="external">www.nickandmore.com/…</a></p>
+<p>另一方面，则是日式动画了。</p>
+<p>从上面 UPA 的历史背景来看，与日本战后动画的形式很像，确实也是因为手冢治虫受到了 UPA 的影响（来源不确定，也有说是 HB 的，时间上来说更像后者），在相同理念的情况下表现出了的不一样的形式。因为即使以早期日本战后动画，比如《阿童木》来看，UPA 与日式动画的最大区别还是在于现实主义（这点倒是来自迪士尼）。</p>
+<p>这里特别值得一提的是 <a href="http://zh.wikipedia.org/zh-cn/GAINAX" target="_blank" rel="external">GAINAX</a> 的 <em>Panty &amp; Stocking with Garterbelt</em> （《<a href="http://zh.wikipedia.org/wiki/%E5%90%8A%E5%B8%A6%E8%A2%9C%E5%A4%A9%E4%BD%BF" target="_blank" rel="external">吊带袜天使</a>》，今石洋之 x 吉成曜，简称 <em>PSG</em>）。吸收了 <em>PPG</em> 和另一个动画 <a href="http://en.wikipedia.org/wiki/Invader_Zim" target="_blank" rel="external"><em>Invader Zim</em></a> 的风格，但 <em>PPG</em> 本身就是 UPA 风格的代表，所以可以说是UPA在大洋另一端的变化吧。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/01/12010_PSG01.jpg" alt=""><br><a href="http://ww1.sinaimg.cn/large/40bcd265gw1ecg4goen5ej20go0cin1d.jpg" target="_blank" rel="external">ww1.sinaimg.cn/large/…</a><br><img src="http://7tszc1.com1.z0.glb.clouddn.com/2014/01/12010_PSG02.jpg" alt=""><br><a href="http://www.japanator.com/what-does-gir-s-creator-think-of-panty-stocking--16795.phtml" target="_blank" rel="external">japanator.com/…</a></p>
+<p>总之，我觉得 UPA 也是动画中由于历史条件限制下的妥协产物最后变成风格的情况之一，并且对现代动画（尤其是电视动画）有深远的影响。</p>
+<h2 id="参考：">参考：</h2>
+<ul>
+<li>UPA Wiki 百科：<a href="http://en.wikipedia.org/wiki/UPA_(animation_studio" target="_blank" rel="external">http://en.wikipedia.org/wiki/UPA_(animation_studio</a>)</li>
+<li>Makin’ Toons: <a href="http://books.google.com/books/about/Makin_Toons.html?id=VqaAnj88gKYC" target="_blank" rel="external">http://books.google.com/books/about/Makin_Toons.html?id=VqaAnj88gKYC</a></li>
+<li>When Amsterdam Went UPA: Dutch Modern Cartoons in the 1950s: <a href="http://www.cartoonbrew.com/cartoon-modern/when-amsterdam-went-upa-dutch-modern-cartoons-in-the-1950s-90904.html" target="_blank" rel="external">http://www.cartoonbrew.com/cartoon-modern/when-amsterdam-went-upa-dutch-modern-cartoons-in-the-1950s-90904.html</a></li>
+<li>Limited Animation: <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LimitedAnimation" target="_blank" rel="external">http://tvtropes.org/pmwiki/pmwiki.php/Main/LimitedAnimation</a></li>
+<li>Columbia Cartoons: <a href="http://tvtropes.org/pmwiki/pmwiki.php/Creator/ColumbiaCartoons?from=Main.UPA" target="_blank" rel="external">http://tvtropes.org/pmwiki/pmwiki.php/Creator/ColumbiaCartoons?from=Main.UPA</a></li>
+<li>关于什么是“卡通风格”：<a href="http://41237345.blog.163.com/blog/static/127706627201111055428238/" target="_blank" rel="external">http://41237345.blog.163.com/blog/static/127706627201111055428238/</a></li>
+<li>工潮和UPA的形成：<a href="http://blog.sina.com.cn/s/blog_4bdabb49010082te.html" target="_blank" rel="external">http://blog.sina.com.cn/s/blog_4bdabb49010082te.html</a></li>
+<li>Juhn K Stuff: UPA: <a href="http://johnkstuff.blogspot.com/search/label/UPA" target="_blank" rel="external">http://johnkstuff.blogspot.com/search/label/UPA</a></li>
+<li>知乎中的相关讨论：<a href="http://www.zhihu.com/question/22230758" target="_blank" rel="external">http://www.zhihu.com/question/22230758</a></li>
+<li>关于 <em>PSG</em> 是否抄袭 <em>Invader Zim</em>: <a href="http://www.japanator.com/what-does-gir-s-creator-think-of-panty-stocking--16795.phtml" target="_blank" rel="external">http://www.japanator.com/what-does-gir-s-creator-think-of-panty-stocking--16795.phtml</a></li>
+</ul>
+<p>本文地址：<a href="http://erelief.github.io/2014/01/11/upa/" target="_blank" rel="external">http://erelief.github.io/2014/01/11/upa/</a></p>
+<hr>
+<p><a rel="external" href="http://creativecommons.org/licenses/by-sa/3.0/cn/" target="_blank"><img alt="知识共享许可协议" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/cn/88x31.png"></a><br>本作品采用<a rel="external" href="http://creativecommons.org/licenses/by-sa/3.0/cn/" target="_blank">知识共享署名-相同方式共享 3.0 中国大陆许可协议</a>进行许可。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>UPA(United Productions of America，美国联合制片公司，简称 UPA)是一家历史悠久但同时也并不长寿的动画工作室。虽然「生于危难」，但它的出现产生了一种有别于当时迪士尼和华纳兄弟的动画风格，并对美国乃至全世界的动画产生了深远的影响。</p>
+<p>]]>
+    
+    </summary>
+    
+      <category term="UPA" scheme="http://erelief.me/tags/UPA/"/>
+    
+      <category term="动画史" scheme="http://erelief.me/tags/%E5%8A%A8%E7%94%BB%E5%8F%B2/"/>
+    
+      <category term="知乎" scheme="http://erelief.me/tags/%E7%9F%A5%E4%B9%8E/"/>
+    
+      <category term="Animation" scheme="http://erelief.me/categories/Animation/"/>
+    
+  </entry>
+  
+</feed>
