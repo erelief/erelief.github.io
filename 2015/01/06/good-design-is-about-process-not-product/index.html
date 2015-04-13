@@ -1,0 +1,506 @@
+
+ <!DOCTYPE HTML>
+<html >
+<head>
+  <meta charset="UTF-8">
+  
+    <title>好的设计关乎过程，而非产品 | Erelief&#39;s Talk</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
+    
+    <meta name="author" content="Erelief">
+    
+    <meta name="description" content="未授权翻译，仅作学习交流之用，版权归原作者所有，转载请注明原文出处，勿做商业目的使用。
+感谢在翻译过程中提供帮助的朋友们！
+原文地址：http://blog.jaredsinclair.com/post/97655887470/good-design-is-about-process-not-product">
+    
+    
+    
+    
+    <link rel="alternative" href="atom.xml" title="Erelief&#39;s Talk" type="application/atom+xml">
+    
+    
+    <link rel="icon" href="/img/favicon.ico">
+    
+    
+    <link rel="apple-touch-icon" href="/img/Tinny.jpg">
+    <link rel="apple-touch-icon-precomposed" href="/img/Tinny.jpg">
+    
+
+	
+	<link href="http://cdn.bootcss.com/highlight.js/8.2/styles/railscasts.min.css" rel="stylesheet">
+	<script src="http://cdn.bootcss.com/highlight.js/8.2/highlight.min.js"></script>
+	<script>hljs.initHighlightingOnLoad();</script>
+	
+
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+
+
+</head>
+
+  <body>
+    <header>
+      <div>
+		
+			<div id="textlogo">
+				<h1 class="site-name"><a href="/" title="Erelief&#39;s Talk">Erelief&#39;s Talk</a></h1>
+				<h2 class="blog-motto"></h2>
+			</div>
+			<div class="navbar"><a class="navbutton navmobile" href="#" title="Menu">
+			</a></div>
+			<nav class="animated">
+				<ul>
+                    <ul>
+					 
+						<li><a href="/">首页</a></li>
+					
+						<li><a href="/atom.xml">RSS</a></li>
+					
+					<li>
+					
+					</li>
+                <li><div class="closeaside"><a class="closebutton" href="#" title="Hide Sidebar"></a></div></li>
+
+				</ul>
+			</nav>	
+</div>
+
+    </header>
+    <div id="container" class="clearfix">
+      <div id="main" class="post" itemscope itemprop="blogPost">
+	<article itemprop="articleBody"> 
+		<header class="article-info clearfix">
+  <h1 itemprop="name">
+    
+      <a href="/2015/01/06/good-design-is-about-process-not-product/" title="好的设计关乎过程，而非产品" itemprop="url">好的设计关乎过程，而非产品</a>
+  </h1>
+  <p class="article-author">By
+    
+      <a href="http://erelief.me" title="Erelief">Erelief</a>
+    </p>
+  <p class="article-time">
+    <time datetime="2015-01-06T06:09:30.000Z" itemprop="datePublished">Jan 6 2015</time>
+    Updated:<time datetime="2015-01-18T18:56:07.000Z" itemprop="dateModified">Jan 19 2015</time>
+    
+  </p>
+</header>
+	<div class="article-content">
+		
+		
+		<div id="toc" class="toc-article">
+			<strong class="toc-title">Contents</strong>
+		<ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#简单来说……"><span class="toc-number">1.</span> <span class="toc-text">简单来说……</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#垃圾桶"><span class="toc-number">2.</span> <span class="toc-text">垃圾桶</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#健康的设计过程"><span class="toc-number">3.</span> <span class="toc-text">健康的设计过程</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#1-_过程，而非产品"><span class="toc-number">4.</span> <span class="toc-text">1. 过程，而非产品</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#2-_开放_vs-_封闭"><span class="toc-number">5.</span> <span class="toc-text">2. 开放 vs. 封闭</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#3-_「犹豫不决」"><span class="toc-number">6.</span> <span class="toc-text">3. 「犹豫不决」</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#4-_设法缩短间隔，不要盯着结点"><span class="toc-number">7.</span> <span class="toc-text">4. 设法缩短间隔，不要盯着结点</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#5-_重新设计才是设计的本质"><span class="toc-number">8.</span> <span class="toc-text">5. 重新设计才是设计的本质</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#6-_恪守原则，灵活应用"><span class="toc-number">9.</span> <span class="toc-text">6. 恪守原则，灵活应用</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#译注"><span class="toc-number">10.</span> <span class="toc-text">译注</span></a></li></ol>
+		</div>
+		
+		<p>未授权翻译，仅作学习交流之用，版权归原作者所有，转载请注明原文出处，勿做商业目的使用。</p>
+<p>感谢在翻译过程中提供帮助的朋友们！</p>
+<p>原文地址：<a href="http://blog.jaredsinclair.com/post/97655887470/good-design-is-about-process-not-product" target="_blank" rel="external">http://blog.jaredsinclair.com/post/97655887470/good-design-is-about-process-not-product</a></p>
+<a id="more"></a>
+
+<hr>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/04/aa.jpg" alt=""></p>
+<p>设计师的工作过程决定了最后产物是平庸还是卓越。天赋和训练都不能替代良好的设计习惯。好的过程可以掩盖许多天赋和技巧上的短处——反之则不然。好的过程可以帮你做出自己最好最独特的作品。坏的过程则让你疲倦，或是做出一些无聊又陈腐的东西。</p>
+<p>要形成一个健康的设计过程，最简单的方法是直接模仿你所崇拜的设计师。在这篇文章中，我会分享一些从我自己喜爱的设计师，或是一些其他领域的智者那里借来的建议。</p>
+<p>这篇文章的长度远超出了我的预期。它也许本可以被分成许多小文章，不过把这些来源五花八门的建议放在一起会更有意思。好的建议往往不期而至。</p>
+<h2 id="简单来说……">简单来说……</h2>
+<p>下面这个列表是这篇文章的简短版本。这几句话并不是拿来温暖你的鸡汤，而是泼在你脸上的冷水，勇敢面对吧！如果你能严肃对待这些问题，就能够重塑你的工作方法——不论你是单干还是团队工作。  </p>
+<ul>
+<li>关注你的<strong>过程</strong>，而不是最后的产品。</li>
+<li>把你工作中的<strong>「创意模式」</strong>和<strong>「执行模式」</strong>正式地分开。</li>
+<li><strong>延迟决策</strong>，直到不得不做出决定为止。</li>
+<li><strong>设法缩短修订版本之间的间隔</strong>，比担心不能在结点之前完成项目更加重要。</li>
+<li><strong>重新设计</strong>是设计的本质。</li>
+<li><strong>恪守</strong>自己的设计原则，但要<strong>灵活</strong>地去应用。</li>
+</ul>
+<h2 id="垃圾桶">垃圾桶</h2>
+<p>这篇文章的标题可不是《难以置信！成为一个好这设计师就这三步！》。要是做一个好设计师这么简单的话，岂不是所有人照着这张清单就能成功了吗？</p>
+<p>每当我看到能启发自己的设计时，我会尝试想象着自己在做这个设计。但是有很多次，我不得不被迫从这种空想的练习中跳出来，因为我搞不清其他设计师是怎么做好这些作品的。为此，我失去信心，就好像他们之间守着什么秘密知识一样。</p>
+<p>很久以后我才意识到自己找错了解决问题的方向。我是想从「结果」开始，逆流而上去寻找设计的源头。然而，事后诸葛亮，以这个角度来看，所有的决定都会显得理所应当。因此，那些没有体现在最后产品中的调整、转折或是困境，我便无从得知了。不过当我转换视角，去学习设计的过程以后，这些问题便都清楚了。</p>
+<p><em>如果你想学好设计，就去看看好设计师的废纸篓。</em></p>
+<p>当你开始学习另一个设计师的垃圾时，你才能解封她工作的过程。一个最后被抛弃的想法之前会有多少次迭代？在试图解决一个具体问题的过程中可能会产生多少种解决方案？ <a href="http://baike.baidu.com/link?url=-gCbY3dfYqdxM9u8xnrIBiI8BhV3JewZuquJgmuURO68shtNBwfKX56Obt9bBOyoG6yRrHt5ZFECl2ypoYB5NK" target="_blank" rel="external">莱昂纳德·科恩</a>曾<a href="http://www.goodreads.com/quotes/21897-poetry-is-just-the-evidence-of-life-if-your-life" target="_blank" rel="external">写过</a>：「诗是生活的证据。如果你活得如火如荼，诗就烧成灰了。」任何创意活动中，最后成型的「结果」，只不过是一路工作所「烧」出来的灰尘，所堆积出来的东西罢了。</p>
+<h2 id="健康的设计过程">健康的设计过程</h2>
+<p>什么才能让设计过程健康起来？对这个问题我有一些实用的回答。这些回答的来源各种各样。顺序不分前后：</p>
+<ol>
+<li><strong>关注过程，而非产品。</strong>关注你工作的质量，而非花在上面的时间。如果这么做，你会发现，你会比你想象得还要快得做出自己最好的作品。</li>
+<li><strong>开放 vs. 封闭。</strong>开放（创意模式）和封闭（执行模式）应当被清楚、正式地分开。要练习能在两个模式之间自由切换。</li>
+<li><strong>「犹豫不决」。</strong>不到最后期限，不要作出决定。「决定」本身并没有价值。</li>
+<li><strong>设法缩短间隔，不要盯着结点。</strong>设法缩短修订版本之间的间隙，这样做比起担忧是否能在结点前完成项目，对你的生产力更有好处。</li>
+<li><strong>重新设计才是设计的本质。</strong>深呼吸，伸展你的四肢，然后准备一遍遍地重复同样的工作。不要把第一版——甚至是第二版——当做最后的版本。</li>
+<li><strong>恪守原则，灵活应用。</strong> 有主张的设计只有在规范的框架下才有用，而且还需要去灵活的应用这些准则。</li>
+</ol>
+<p>让我们来详细讨论每一条。</p>
+<h2 id="1-_过程，而非产品">1. 过程，而非产品</h2>
+<p>我一直持续不断的从乔·海姆斯的 <a href="http://www.amazon.cn/Zen-in-the-Martial-Arts-Hyams-Joe/dp/B003IS764O/ref=sr_1_1?ie=UTF8&amp;qid=1419952112&amp;sr=8-1&amp;keywords=Zen+in+the+Martial+Arts" target="_blank" rel="external"><em>Zen in the Martial Arts</em></a>（《武术中的禅》）这本小书获得灵感和启发。海姆斯是一个旅行家，后来对武术绽放出无比的热情。不过，他的这本书书除了偶尔提个一两句以外，和禅与武术都没什么关系。这本书真正的乐趣所在在于其所提供的大量实用的智慧。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/04/zen-book.jpg" alt=""></p>
+<p>下面这段话是我最喜欢的片段之一的完整摘录（需要强调的地方加粗了），这段文章阐述了为什么关注过程，而非最后的产品，却反而能够在让你在两方面都成功的原因：</p>
+<blockquote>
+<p><a href="http://en.wikipedia.org/wiki/Han_Bong-soo" target="_blank" rel="external">韩奉修</a>（한봉수）师傅是一个中等身高，留着一头铁灰色头发的韩国人。他的一言一行都相当有威严。作为一个传统的材料大师， 他在韩国从他的师傅那里学来<a href="http://baike.baidu.com/link?url=4gVGbD9aiURLbzJ-rDCeR-HoARMGvRe5hLyJLkD-rPWK7P07pDuuCMTS7OrzLGl8aQpyvccHXWkQ-h7ZT3i-7p-vsA6cz6yzznb6T0bqyzm" target="_blank" rel="external">合气道</a>（hapkido），而他的师傅又被一长串其他师傅教导过。韩师傅的讲习会不仅是一次训练，也是人生中的一课。每次离开他的道场时，我总觉得自己变得更充实了些。</p>
+<p>当我和韩师傅学习合气道时，我已经 50 多岁了。刚开始学习的时候，因为合气道对身体柔韧性的有很高的要求，所以我的进度很慢，也时常觉得很困难。由于年纪导致我的身体僵硬，而且因为我的背部有问题让我难以保持平衡，同时，高于胯部的踢击动作会让我疼痛不已。那些年轻人能轻松做到的动作，我则要花数倍的努力和坚强的意志力才能完成，这使得我的学习过程变得异常复杂。我曾多次想放弃，韩师傅注意到了这点。</p>
+<p>在一次训练过后的下午，韩师傅邀请我和他一起喝茶。等他准备好茶后，他开始说：「除非你愿意给自己时间，不然你永远不会试着去努力。我想你已经习惯于唾手可得的东西，不过生活和材料艺术都不是这样的。」</p>
+<p>「我并不是没有耐心。」我说。</p>
+<p>「我们现在讨论的不是耐心，」他回答道，「做一个有耐心的人意味着能忍受平静。<strong>意味着能给自己时间，充满活力地朝向一个不设期限的目标。</strong>」</p>
+<p>他触及到了我问题的核心。我给自己设定了一个时间期限去效仿韩师傅，而且我因没有尽快实现目标而受挫。当我把最后期限抛之脑后的同时，身体也如释重负。几个月内我就完成了剩余的课程。</p>
+<p>同样重要的是：通过韩师傅的建议我解决了另一个棘手的问题。当时我正在写一本书，而且越写越慢。这使我感到失落，因为当时我已经承诺要在短期内另起一个新的项目，这件事让我心神不宁。如今我意识到我关注错了地方。我犯了和在合气道上同样错误。我应该关注写作本身而非完成这本书。一旦我解开了脑中的枷锁并不设期限地去完成那本书时，我得以让自己戒除焦虑，专心于写作。</p>
+</blockquote>
+<p>海姆斯是一个作家，而非设计师，不过我相信他的建议对任何创意工作都可以应用。</p>
+<h2 id="2-_开放_vs-_封闭">2. 开放 vs. 封闭</h2>
+<p>1991年，<a href="http://www.thejohncleese.com/" target="_blank" rel="external">约翰·克里斯</a>给一群挪威人开了一个<a href="http://v.qq.com/page/l/l/g/l0144kuejlg.html" target="_blank" rel="external">关于创意的讲座</a>。这个晦涩的讲座改变了我的一生。这是一个值得反复观看的讲座，并且只会占用你短短的36分钟。简短起见，我来尝概括一下讲座的思想。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/04/cleese.jpg" alt=""></p>
+<p>创造力是一种操作方式、一种思维习惯——而不是天赋。一旦你抓住了这个事实，就会痛悟：我们安排自己时间的方式，以及与同事之间互动的方式，或许经常在破坏我们孜孜以求的创造力。</p>
+<p>应当正式地把创意环节，从我们对「把事做完」的饥渴之中剥离出来。当我们需要解决一个对创造力有需求的问题时，应当有意识地排除一切噪音和压力。克里斯建议留出一个半小时的空闲时间，以一个轻松自得的状态进入一个开放式的活动。在这个活动中，需要强迫自己，以尽可能多的方式来看待问题。</p>
+<p>其重点在于不去解决问题（尽管最终会解决的），而仅仅是探索它。急不可耐的「确定」或「通过」，都会摧毁本来就脆弱不堪的创意过程。相反，应该等到用完这段「创意时间」以后，再做判断。到那时候，你再回到「封闭」的状态，并在此期间，根据创意活动给你的启发做出实践验证。然后，规律地重复这个循环的模式。</p>
+<p>我对克里斯演讲的总结还远远不够。正在读这篇文章的你真的应该去看看<a href="http://v.qq.com/page/l/l/g/l0144kuejlg.html" target="_blank" rel="external">整个视频</a>。这段视频里充满着他独一无二的智慧与幽默。准备好捧腹大笑并为他鼓掌吧！</p>
+<h2 id="3-_「犹豫不决」">3. 「犹豫不决」</h2>
+<p><a href="https://dribbble.com/bjango" target="_blank" rel="external">马克·埃德沃兹</a>，一个知识渊博的设计师，同时也是 <a href="http://bjango.com/" target="_blank" rel="external">Bjango</a> 的创始人。最近贴了一篇关于他对前老板（一个设计公司的创意总监）回忆的<a href="http://bjango.com/articles/exploration/" target="_blank" rel="external">感人文章</a>。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/04/bjango.jpg" alt=""></p>
+<p>马克刚开始误认为他老板是个古怪且优柔寡断的人。后来才领悟到，隐藏在它老板疯狂的表象之下的，是足以颠覆他职业生涯的一课：</p>
+<blockquote>
+<p>对我来说，他好像不知道自己在做什么。他一直到处摸索，最后才在停在某些不置可否的事物上。这些东西并不是不可以，但是不够好。然后他就要求更多的更改，包括某些明摆着就很糟糕的更改。</p>
+<p>……</p>
+<p>后来我才领悟了。</p>
+<p>他故意尝试各种各样疯狂的东西，甚至知道那些中的绝大多数没有用。但他根本不在乎，他不在乎也觉得这样没关系——我们最后成果所能达到的，是我们事先的规划所估计不到的。问题并不是「最佳的方法是什么？」而是「有多少种可能的方法？」，直到最后时刻来临之际再做出判断。判断的感觉也许不错，不过这并没有价值。结果才有价值。</p>
+<p>然而（总监的）成果往往是扎实、却又与众不同的惊人设计。他从不会用稀松平常的方式来处理。从作品的外表，或别的艺术总监的眼中来看，它非常神奇。不过，从过程的角度来看，并非是因纠结细枝末节而产生这样的结果。</p>
+</blockquote>
+<p>我特别喜爱马克最后对于他老板是如何避免设计师瓶颈的观察。回顾自身，才发现我自己因为总是草率地追求「确定」，而且迫不及待地想从「还没确定」的不适感中解脱出来，从而经验性地陷入瓶颈问题。</p>
+<h2 id="4-_设法缩短间隔，不要盯着结点">4. 设法缩短间隔，不要盯着结点</h2>
+<p><a href="http://baike.baidu.com/link?url=PubqzQJzM7WdIPTLcMbbttR4ww2yEy74jk6HhemY8mQGRZ5GqTugk_v2FmnIHPzfRBWKSVLfb6r6gzGimNJgba" target="_blank" rel="external">阿萨·拉斯金</a>，一个多才多艺的设计师，现在是 Jawbone 的副总裁，写过<a href="http://www.azarask.in/blog/post/the-wrong-problem/" target="_blank" rel="external">一篇博客</a>，在文章中叙述了<a href="http://en.m.wikipedia.org/wiki/Paul_MacCready" target="_blank" rel="external">保罗·麦克格雷迪</a>在制造首个穿越英吉利海峡人力驱动载具时，所体现出的独特洞察力。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/04/condor.jpg" alt=""></p>
+<p>1959 年，一位名叫亨利·克里默的英国大亨，为首支能「只使用人力驱动的设备飞过英吉利海峡」的团队，提供了一份可观的现金奖励（相当于今天的 250 万美元）。在麦克获奖之前，整整18年都没有人挑战成功。</p>
+<p>麦克格雷迪敏锐的观察力使得他得以发现，他的前辈们都把问题的本质给搞错了。这些团队花了好几个月设计和制造飞行器，但大部分刚飞几分钟甚至几秒钟就撞毁了，这就意味着他们要花费很长时间重新计算和制造飞行器。麦克格雷迪对此提出了异议：</p>
+<blockquote>
+<p>问题并没有得到解决。保罗意识到需要解决的，事实上，并不是人力飞行器的问题。在这个比赛中，飞行器本身是一颗「烟雾弹」。真正的问题是过程本身，以及没有深思熟虑就进行的莽撞行为。保罗找到了真正需要解决的问题：怎样造一个能在数小时内修好，而不是花上几个月才能修好的飞行器。然后，他做到了。他造了一个用聚酯薄膜和铝管，并用线材组捆绑而成的飞机。</p>
+<p>第一架飞机并没有成功。它实在太脆弱了。不过，由于他的问题是“如何造一架能在数小时内修好的飞行器”，所以他能够快速重建。有时他甚至能在一天之内飞3到4架。因此，重复制造，重复测试，重复演技的循环从「长年累月」被压缩到了「积时累日」。</p>
+</blockquote>
+<p>麦克格雷迪的见解在软件设计上尤其合适。如果你的团队里有多个设计师和开发者，你大概对团队最后总是在新旧内核版本之间、设计反馈之间、或是在这个反馈和返修之间，那些长达数日或者数周的拖延非常熟悉。这种延期是非常严重的问题。这会让工程师和设计师忘脑袋里那些得不到及时应用的细节。</p>
+<p>所有在速度的上的改进都有好处。像 Flipboard 和 Facebook 这类公司使用<a href="http://v.qq.com/page/p/l/0/p0144eewhl0.html" target="_blank" rel="external">自动部署测试版本</a>和<a href="https://github.com/facebook/Tweaks" target="_blank" rel="external">应用内设计调整</a>来消除一些类似手动配置和升级核心用户界面的常规任务。<a href="http://bjango.com/mac/skala/" target="_blank" rel="external">Skala</a> 或者 <a href="https://www.flinto.com/" target="_blank" rel="external">Flinto</a> 这类预览工具可以尽可能地直接在终端上预览你的设计。当你关注于缩短设计每个迭代版本之间的调整时间时，就等同于让你的团队获取更多的效率，因能展现出他们最好的作品。</p>
+<h2 id="5-_重新设计才是设计的本质">5. 重新设计才是设计的本质</h2>
+<p>在 <a href="http://www.amazon.cn/On-Writing-Well-30th-Anniversary-Edition-The-Classic-Guide-to-Writing-Nonfiction-William-Zinsser/dp/0060891548/ref=sr_1_1?ie=UTF8&amp;qid=1419957195&amp;sr=8-1&amp;keywords=On+Writing+Well" target="_blank" rel="external"><em>On Writing Well</em></a>（《怎样写好》）这本书中，<a href="http://www.williamzinsserwriter.com/" target="_blank" rel="external">威廉姆·辛赛</a>对「重新写作」有非常精彩的论述：</p>
+<blockquote>
+<p>重写是写好的本质：这能决定你的成败，然而这个想法又很难被接受。我们对自己的第一稿总是很有感情；我们不愿相信它并非生来完美。不过奇怪的是，它不完美的概率几近于100%。绝大部分的写作者并非在一开始就能表达得出他们想表达的，或者，表达得不如他们最高水平所能做到的那样。刚孵化出的句子总是哪儿不对劲：不清晰、没有逻辑、冗长、自命不凡、无聊、杂乱不堪……所以关键在于，明晰的写作是沉思熟虑的结果。</p>
+</blockquote>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/04/zinsser.jpg" alt=""></p>
+<p>我把它延伸为重新设计才是设计的本质。无论一个人多有才能，都不可能在 TA 的第一版做到 TA 所能做到的最好设计。除非是你太懒，不然直接交出第一或是第二版通常只是一厢情愿的想法。你的作品永远都会有改进的空间：有些新东西可以加，过量的东西可以剔除，已有东西可以重新整合。好的想法总在不经意间蹦出。如果你一直处在备战的状态的话，那你就可以摆脱习惯性地妥协接受平庸作品的思维定势，从而对新的想法做出反应了。</p>
+<h2 id="6-_恪守原则，灵活应用">6. 恪守原则，灵活应用</h2>
+<p>在软件设计圈内有个说法：</p>
+<blockquote>
+<p>做有主张的软件。</p>
+</blockquote>
+<p>37 singals 在<a href="http://cnborn.net/docs/getting_real/index.html" target="_blank" rel="external">他们的书中</a>[1]对这条是这么描述的：</p>
+<blockquote>
+<p>伟大的软件必须要有自己的理想。伟大的软件必定是有倾向的。当人们使用软件的时候他们不只是在看功能，同时也在寻找一个解决方案，一种理想。决定你的理想而后追求不懈。</p>
+</blockquote>
+<p>我觉得这是一条很有价值的建议，不过要以合适的方法来理解它。我曾看到一些狂妄自大的设计师拿这个建议作为拒绝向一些枝节问题妥协的借口。有主张的设计无关乎个人品味。它的意思是在数条原则的指导下，给你的项目打下坚实的基础。</p>
+<p>好的设计主张自己的原则，而且自由地去应用。最好的例子就是 <a href="http://baike.baidu.com/link?url=prdX0_OXRhqyaGtJykJxhwc9AGGepEln0j5jXRS-ZwUIyslW4znDGW4Z_IYN3oqi9FktRTThanGi91tnpttKAK" target="_blank" rel="external">iMac</a>。</p>
+<p><img src="http://7tszc1.com1.z0.glb.clouddn.com/2015/01/04/imac.jpg" alt=""></p>
+<p>在过去的 15 年中已经有了好几代 iMac，每一代都和前一代不同——有时候是戏剧性得不同。同时，他们之中的任何一款都是真正的 iMac。因为每一个版本都诠释了 iMac 一些从未改变的原则：</p>
+<ul>
+<li>一体机；</li>
+<li>外观友好，让人想亲近触摸；</li>
+<li>凸显主体，最小化干扰项的体积；</li>
+<li>隐藏很少使用的功能；</li>
+<li>看上去就仅仅是屏幕。</li>
+</ul>
+<p>苹果的硬件设计师允许自己，以想像得到的尽可能多的方式，自由地表达这些原则，与此同时也并不质疑这些原则。这才是有主张的设计的本质。</p>
+<p>当你在从事一个新项目、或者在重改一个现有的项目时。在你开始做别的事情之前，先要找到你的原则。直到你能充分研究这些需要解决的问题并能描述解决方案之前，不要急着打开 Photoshop 或者 Xcode。把这些想法萃取成几条原则。写下它们。记住他们。把他们贴在墙上。</p>
+<p>在解决难题时，你的原则会给你准确性和客观性。如果没有的话，客观性则只能由房间里喉咙最响的人来提供了。你的每一个决定都要通过你的指导原则来掂掂分量。这才是好想法总能致胜的原因。</p>
+<hr>
+<h2 id="译注">译注</h2>
+<p>[1] 下文引用的内容也出自该连接内的译文。翻译修订： CNBorn。</p>
+<p>转载地址：  </p>
+<ul>
+<li>优设网：<a href="http://www.uisdc.com/good-design-is-about-process" target="_blank" rel="external">http://www.uisdc.com/good-design-is-about-process</a></li>
+<li>站酷：<a href="http://www.zcool.com.cn/article/ZMTQxODE2.html" target="_blank" rel="external">http://www.zcool.com.cn/article/ZMTQxODE2.html</a></li>
+</ul>
+  
+	</div>
+		<footer class="article-footer clearfix">
+
+  <div class="article-tags">
+  
+  <span></span> <a href="/tags/翻译/">翻译</a><a href="/tags/设计/">设计</a>
+  </div>
+
+
+<div class="article-categories">
+  <span></span>
+  <a class="article-category-link" href="/categories/其他/">其他</a>
+</div>
+
+
+
+<div class="article-share" id="share">
+
+  <div data-url="http://erelief.me/2015/01/06/good-design-is-about-process-not-product/" data-title="好的设计关乎过程，而非产品 | Erelief&#39;s Talk" data-tsina="undefined" class="share clearfix">
+  </div>
+
+</div>
+</footer>   	       
+	</article>
+	
+<nav class="article-nav clearfix">
+ 
+ <div class="prev" >
+ <a href="/2015/03/26/bighero6-analysis/" title="《超能陆战队》动作与表演分析[草稿]">
+  <strong>PREVIOUS:</strong><br/>
+  <span>
+  《超能陆战队》动作与表演分析[草稿]</span>
+</a>
+</div>
+
+
+<div class="next">
+<a href="/2014/09/13/whatching-cartoons-with-your-children/"  title="为什么你应该陪着你的孩子看动画？">
+ <strong>NEXT:</strong><br/> 
+ <span>为什么你应该陪着你的孩子看动画？
+</span>
+</a>
+</div>
+
+</nav>
+
+	
+</div>  
+      
+  <div id="toc" class="toc-aside">
+  <strong class="toc-title">Contents</strong>
+  <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#简单来说……"><span class="toc-number">1.</span> <span class="toc-text">简单来说……</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#垃圾桶"><span class="toc-number">2.</span> <span class="toc-text">垃圾桶</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#健康的设计过程"><span class="toc-number">3.</span> <span class="toc-text">健康的设计过程</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#1-_过程，而非产品"><span class="toc-number">4.</span> <span class="toc-text">1. 过程，而非产品</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#2-_开放_vs-_封闭"><span class="toc-number">5.</span> <span class="toc-text">2. 开放 vs. 封闭</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#3-_「犹豫不决」"><span class="toc-number">6.</span> <span class="toc-text">3. 「犹豫不决」</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#4-_设法缩短间隔，不要盯着结点"><span class="toc-number">7.</span> <span class="toc-text">4. 设法缩短间隔，不要盯着结点</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#5-_重新设计才是设计的本质"><span class="toc-number">8.</span> <span class="toc-text">5. 重新设计才是设计的本质</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#6-_恪守原则，灵活应用"><span class="toc-number">9.</span> <span class="toc-text">6. 恪守原则，灵活应用</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#译注"><span class="toc-number">10.</span> <span class="toc-text">译注</span></a></li></ol>
+  </div>
+
+<div id="asidepart">
+<div id="authorInfo">
+	
+		<div class="author-logo"></div>		
+	
+	
+	<section class="author-info">
+		
+			<p> Believe it or not.</p>
+		
+		
+	</section>
+	 
+	<div class="social-font" class="clearfix">
+		
+		
+		
+		
+	</div>
+</div>
+<aside class="clearfix">
+
+
+  
+<div class="categorieslist">
+	<p class="asidetitle">Categories</p>
+		<ul>
+		
+			<li><a href="/categories/其他/" title="其他">其他<sup>3</sup></a></li>
+		
+			<li><a href="/categories/剧本/" title="剧本">剧本<sup>1</sup></a></li>
+		
+			<li><a href="/categories/动画/" title="动画">动画<sup>9</sup></a></li>
+		
+			<li><a href="/categories/电影/" title="电影">电影<sup>3</sup></a></li>
+		
+			<li><a href="/categories/科普/" title="科普">科普<sup>1</sup></a></li>
+		
+		</ul>
+</div>
+
+
+  
+  <div class="archiveslist">
+    <p class="asidetitle"><a href="/archives">Archives</a></p>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/03/">March 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/01/">January 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/09/">September 2014</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/08/">August 2014</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/07/">July 2014</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/03/">March 2014</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/02/">February 2014</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/01/">January 2014</a><span class="archive-list-count">2</span></li></ul>
+  </div>
+
+
+  
+<div class="tagslist">
+	<p class="asidetitle">Tags</p>
+		<ul class="clearfix">
+		
+			<li><a href="/tags/Cyperpunk/" title="Cyperpunk">Cyperpunk<sup>1</sup></a></li>
+		
+			<li><a href="/tags/Frozen/" title="Frozen">Frozen<sup>4</sup></a></li>
+		
+			<li><a href="/tags/UPA/" title="UPA">UPA<sup>1</sup></a></li>
+		
+			<li><a href="/tags/中国动画/" title="中国动画">中国动画<sup>1</sup></a></li>
+		
+			<li><a href="/tags/书/" title="书">书<sup>2</sup></a></li>
+		
+			<li><a href="/tags/信息图/" title="信息图">信息图<sup>3</sup></a></li>
+		
+			<li><a href="/tags/健康/" title="健康">健康<sup>1</sup></a></li>
+		
+			<li><a href="/tags/儿童教育/" title="儿童教育">儿童教育<sup>1</sup></a></li>
+		
+			<li><a href="/tags/动画史/" title="动画史">动画史<sup>1</sup></a></li>
+		
+			<li><a href="/tags/原创/" title="原创">原创<sup>6</sup></a></li>
+		
+			<li><a href="/tags/喜剧/" title="喜剧">喜剧<sup>1</sup></a></li>
+		
+			<li><a href="/tags/知乎/" title="知乎">知乎<sup>1</sup></a></li>
+		
+			<li><a href="/tags/科幻/" title="科幻">科幻<sup>1</sup></a></li>
+		
+			<li><a href="/tags/绘画/" title="绘画">绘画<sup>6</sup></a></li>
+		
+			<li><a href="/tags/翻译/" title="翻译">翻译<sup>10</sup></a></li>
+		
+			<li><a href="/tags/设计/" title="设计">设计<sup>6</sup></a></li>
+		
+			<li><a href="/tags/超能陆战队/" title="超能陆战队">超能陆战队<sup>1</sup></a></li>
+		
+		</ul>
+</div>
+
+
+</aside>
+</div>
+    </div>
+    <footer><div id="footer" >
+
+</div>
+</footer>
+    <script src="/js/jquery-2.1.0.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){ 
+  //back to top
+  function backToTop(){
+    var buttonHTML = $("<a href=\"#top\" id=\"back-top\">" + "<span>Back to Top</span></a>");
+    buttonHTML.appendTo($("body"));
+    var buttonToTop = $("#back-top");
+    // hide #back-top first
+    buttonToTop.hide();
+
+    // fade in #back-top
+    $(function() {
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                buttonToTop.fadeIn();
+            } else {
+                buttonToTop.fadeOut();
+            }
+        });
+        // scroll body to 0px on click
+        buttonToTop.click(function() {
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+    });
+  }
+  backToTop();
+
+  $('.navbar').click(function(){
+    $('header nav').toggleClass('shownav');
+  });
+  var myWidth = 0;
+  function getSize(){
+    if( typeof( window.innerWidth ) == 'number' ) {
+      myWidth = window.innerWidth;
+    } else if( document.documentElement && document.documentElement.clientWidth) {
+      myWidth = document.documentElement.clientWidth;
+    };
+  };
+  var m = $('#main'),
+      a = $('#asidepart'),
+      c = $('.closeaside'),
+      ta = $('#toc.toc-aside');
+  $(window).resize(function(){
+    getSize(); 
+    if (myWidth >= 1024) {
+      $('header nav').removeClass('shownav');
+    }else
+    {
+      m.removeClass('moveMain');
+      a.css('display', 'block').removeClass('fadeOut');
+      
+      $('#toc.toc-aside').css('display', 'none');
+        
+    }
+  });
+
+  var show = true;
+  c.click(function(){
+    if(show == true){
+        a.addClass('fadeOut').css('display', 'none');
+        ta.css('display', 'block').addClass('fadeIn');
+        m.addClass('moveMain');  
+    }else{
+        a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');     
+        ta.css('display', 'none'); 
+        m.removeClass('moveMain');
+        $('#toc.toc-aside').css('display', 'none');
+    }
+    show = !show;
+  });
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,240-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var $this = $('.share'),
+      url = $this.attr('data-url'),
+      encodedUrl = encodeURIComponent(url),
+      title = $this.attr('data-title'),
+      tsina = $this.attr('data-tsina');
+  var html = [
+  '<a href="#" class="overlay" id="qrcode"></a>',
+  '<div class="qrcode clearfix"><span>扫描二维码分享到微信朋友圈</span><a class="qrclose" href="#share"></a><strong>Loading...Please wait</strong><img id="qrcode-pic" data-src="http://s.jiathis.com/qrcode.php?url=' + encodedUrl + '"/></div>',
+  '<a href="#textlogo" class="article-back-to-top" title="Top"></a>',
+  '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
+  '<a href="#qrcode" class="article-share-qrcode" title="QRcode"></a>',
+  '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
+  '<a href="http://service.weibo.com/share/share.php?title='+title+'&url='+encodedUrl +'&ralateUid='+ tsina +'&searchPic=true&style=number' +'" class="article-share-weibo" target="_blank" title="Weibo"></a>',
+  '<span title="Share to"></span>'
+  ].join('');
+  $this.append(html);
+  $('.article-share-qrcode').click(function(){
+    var imgSrc = $('#qrcode-pic').attr('data-src');
+    $('#qrcode-pic').attr('src', imgSrc);
+    $('#qrcode-pic').load(function(){
+        $('.qrcode strong').text(' ');
+    });
+  });
+});     
+</script>
+
+
+
+
+
+
+  </body>
+</html>
